@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Вклад СОХРАНЯЙ",
+    "rateOnline": "до 5% в рублях",
+    "rateOffline": "до 0,85% в долларах",
+    "termFrom": "от 1 месяца",
+    "termTo": "до 3-х лет",
+    "amountFromRUR": "от 1000 рублей",
+    "amountFromUSD": "или от 100$"
+  },
+  {
+    "title": "Вклад ПОПОЛНЯЙ",
+    "rateOnline": "до 4,60% в рублях",
+    "rateOffline": "до 0,50% в долларах",
+    "termFrom": "от 3 месяцев",
+    "termTo": "до 3-х лет",
+    "amountFromRUR": "от 1000 рублей",
+    "amountFromUSD": "или от 100$"
+  }
+]

@@ -2,7 +2,7 @@
   "deposits": [
     {
       "title": "Вклад СОХРАНЯЙ",
-      "rateOnline": "до 4,65% в рублях",
+      "rateOnline": "до 4,50% в рублях",
       "rateOffline": "",
       "termFrom": "от 1 месяца",
       "termTo": "до 3-х лет",
@@ -11,7 +11,7 @@
     },
     {
       "title": "Вклад ПОПОЛНЯЙ",
-      "rateOnline": "до 4,25% в рублях",
+      "rateOnline": "до 4,15% в рублях",
       "rateOffline": "",
       "termFrom": "от 3 месяцев",
       "termTo": "до 3-х лет",

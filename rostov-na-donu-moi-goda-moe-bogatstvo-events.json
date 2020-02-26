@@ -1,0 +1,779 @@
+[
+    {
+       "id": 1,
+       "tabId": 1,
+       "title": "Клуб путешествий",
+       "contact": "Глазунова Оксана Васильевна",
+       "phoneNumber": "8 (904) 345-77-59",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "13:00 - 14:00"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 2,
+       "tabId": 1,
+       "title": "Клуб спортивных игр",
+       "contact": "Туниян Валерий Викторович",
+       "phoneNumber": "8 (952) 568-11-64",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "13:00 - 14:00"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "13:00 - 14:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 3,
+       "tabId": 2,
+       "title": "Школа Здоровья",
+       "contact": "Канивец Наталья Николаевна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "16:00 - 18:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 4,
+       "tabId": 2,
+       "title": "Школа Здоровья",
+       "contact": "Погорелова Танита Вадимовна",
+       "phoneNumber": "8 (988) 945-24-64",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": ""
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 5,
+       "tabId": 3,
+       "title": "Литературно-музыкальный салон",
+       "contact": "Назирашвили Инесса Юрьевна",
+       "phoneNumber": "8 (904) 345-77-59",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "13:00 - 15:00"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "14:00 - 16:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 6,
+       "tabId": 3,
+       "title": "Клуб \"Письма радости\"",
+       "contact": "Кушаренко Наталья Васильевна",
+       "phoneNumber": "8 (961) 306-13-09",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "12:00 - 14:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "12:00 - 14:00"
+          }
+       ]
+    },
+    {
+       "id": 7,
+       "tabId": 3,
+       "title": "\"Истории жизни\"",
+       "contact": "Кушаренко Наталья Васильевна",
+       "phoneNumber": "8 (961) 306-13-09",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "12:00 - 14:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "12:00 - 14:00"
+          }
+       ]
+    },
+    {
+       "id": 8,
+       "tabId": 3,
+       "title": "Передвижная библиотека",
+       "contact": "Глазунова Оксана Васильевна",
+       "phoneNumber": "8 (904) 345-77-59",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "10:00 - 14:00"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "10:00 - 14:00"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 9,
+       "tabId": 4,
+       "title": "Театральная студия",
+       "contact": "Наумова Ирина Анатольевна",
+       "phoneNumber": "8 (952) 571-41-40",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "16:00 - 20:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "16:00 - 20:00"
+          }
+       ]
+    },
+    {
+       "id": 10,
+       "tabId": 4,
+       "title": "Клуб караоке",
+       "contact": "Назирашвили Инесса Юрьевна",
+       "phoneNumber": "8 (951) 841-36-93",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "12:00 - 14:00"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 11,
+       "tabId": 4,
+       "title": "Клуб вокала",
+       "contact": "Назирашвили Инесса Юрьевна",
+       "phoneNumber": "8 (951) 841-36-93",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "11:00 - 13:00"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "11:00 - 13:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 12,
+       "tabId": 5,
+       "title": "Финансовая грамотность, в партнёрстве со Сбербанком",
+       "contact": "Канивец Наталья Николаевна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "13:00 - 15:00"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 13,
+       "tabId": 6,
+       "title": "Студия живописи",
+       "contact": "Гончарова Анна Михайловна",
+       "phoneNumber": "8 (928) 768-38-17",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 14,
+       "tabId": 6,
+       "title": "Клуб \"Умелые ручки\"",
+       "contact": "Андреева Людмила Леонидовна",
+       "phoneNumber": "8 (904) 342-96-57",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "15:00 - 17:00"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "15:00 - 17:00"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    },
+    {
+       "id": 15,
+       "tabId": 6,
+       "title": "Клуб моделистов",
+       "contact": "Канивец Наталья Николаевна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "12:00 - 14:00"
+          }
+       ]
+    },
+    {
+       "id": 16,
+       "tabId": 6,
+       "title": "Клуб аквариумистов",
+       "contact": "Канивец Наталья Николаевна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "12:00 - 14:00"
+          }
+       ]
+    },
+    {
+       "id": 17,
+       "tabId": 6,
+       "title": "Клуб \"Цветы радости\"",
+       "contact": "Гончарова Людмила Петровна",
+       "phoneNumber": "8 (928) 154-63-67",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "13:00 - 16:00"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "14:00 - 16:00"
+          }
+       ]
+    },
+    {
+       "id": 18,
+       "tabId": 7,
+       "title": "Клуб \"Счастливые внуки\"",
+       "contact": "Козлова Людмила Петровна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "14:00 - 16:00"
+          }
+       ]
+    },
+    {
+       "id": 19,
+       "tabId": 7,
+       "title": "День именинника (каждая последняя суббота месяца)",
+       "contact": "Канивец Наталья Николаевна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "14:00 - 16:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": ""
+          }
+       ]
+    },
+    {
+       "id": 20,
+       "tabId": 7,
+       "title": "Календарные праздники",
+       "contact": "Канивец Наталья Николаевна",
+       "phoneNumber": "8 (928) 132-72-13",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "14:00 - 16:00"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "14:00 - 16:00"
+          }
+       ]
+    },
+    {
+       "id": 21,
+       "tabId": 7,
+       "title": "Православный час",
+       "contact": "Сестричество  Православного Прихода храма Казанской иконы Божией Матери",
+       "phoneNumber": "",
+       "schedule": [
+          {
+             "weekDayId": 1,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 2,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 3,
+             "timeInterval": "10:00 - 12:00"
+          },
+          {
+             "weekDayId": 4,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 5,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 6,
+             "timeInterval": "-"
+          },
+          {
+             "weekDayId": 7,
+             "timeInterval": "-"
+          }
+       ]
+    }
+]

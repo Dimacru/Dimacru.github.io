@@ -1,23 +1,23 @@
 {
   "deposits": [
     {
-      "title": "Вклад СОХРАНЯЙ",
-      "rateOnline": "до 4,50% в рублях",
-      "rateOffline": "",
-      "termFrom": "от 1 месяца",
-      "termTo": "до 3-х лет",
-      "amountFromRUR": "от 1000 рублей",
+      "title": "Вклад СОХРАНЯЙ и СОХРАНЯЙ ОнЛ@йн",
+      "rateOnline": "до 4,15% в рублях — в Сбербанк Онлайн",
+      "rateOffline": "до 4,00% в рублях — в отделении Банка",
+      "termFrom": "от 1 месяца",
+      "termTo": "до 3-х лет",
+      "amountFromRUR": "от 1000 рублей",
       "amountFromUSD": ""
     },
     {
-      "title": "Вклад ПОПОЛНЯЙ",
-      "rateOnline": "до 4,15% в рублях",
-      "rateOffline": "",
-      "termFrom": "от 3 месяцев",
-      "termTo": "до 3-х лет",
-      "amountFromRUR": "от 1000 рублей",
+      "title": "Вклад ПОПОЛНЯЙ и ПОПОЛНЯЙ ОнЛ@йн",
+      "rateOnline": "до 3,80% в рублях — в Сбербанк Онлайн",
+      "rateOffline": "до 3,65% в рублях — в отделении Банка",
+      "termFrom": "от 3 месяцев",
+      "termTo": "до 3-х лет",
+      "amountFromRUR": "от 1000 рублей",
       "amountFromUSD": ""
     }
   ],
-  "disclaimer": "Узнать подробнее &nbsp;\n<a href=\"http://www.sberbank.ru/ru/person/contributions/deposits/renew_online\" target=\"_blank\" rel='nofollow'>\n    О вкладе Пополняй\n</a>\n&nbsp;&nbsp;\n<a href=\"http://www.sberbank.ru/ru/person/contributions/deposits/save_online\" target=\"_blank\" rel='nofollow'>\n    О вкладе Сохраняй\n</a>"
+  "disclaimer": "Узнать подробнее  \n<a href=\"http://www.sberbank.ru/ru/person/contributions/deposits/renew_online\" target=\"_blank\" rel='nofollow'>\n О вкладе Пополняй\n</a>\n  \n<a href=\"http://www.sberbank.ru/ru/person/contributions/deposits/save_online\" target=\"_blank\" rel='nofollow'>\n О вкладе Сохраняй\n</a>"
 }

@@ -1,8 +1,8 @@
 {
   "linkToPageMay9IsReplacedInTheJournal": false,
   "isSbolPageInJournalPromoted": false,
-  "bannerTextInJournal": "«Земля Эльзы» — фильм о том, что влюбиться никогда не поздно",
-  "bannerUrlInJournal": "https://sberbankaktivno.ru/journal/article/2175",
-  "bannerUrlencodedSvg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 512 512'%3E%3Cdefs/%3E%3Cpath fill='%23fff' d='M84 176l5-27 15-15 260-77 29 10 23 64-280 81-17 9h308l5 170-10 50-23 14H127l-19-14-10-21V221l-14-45z'/%3E%3Cpath fill='%2321A038' fill-rule='evenodd' d='M430 216H155l264-76a8 8 0 005-10l-14-48a45 45 0 00-55-30l-248 71c-11 4-21 11-26 22-6 10-8 23-4 34l13 46v192c0 25 20 45 45 45h97a8 8 0 100-16h-97c-16 0-29-13-29-29V308h315v109c0 16-12 29-28 29h-97a8 8 0 000 16h97c24 0 45-20 45-45V224c0-4-4-8-8-8zm-142 76l34-60h44l-34 60h-44zm-63 0l34-60h44l-34 60h-44zm-63 0l34-60h44l-34 60h-44zm29-105l-57-55 43-12 1 1 57 55-42 13-2-2zM299 86l58 55-43 13-1-2-58-55 43-12 1 1zm-60 18l57 55-43 12-1-1-57-55 43-13 1 2zm120-37l8-1c13 0 24 9 28 21l11 40-32 9-1-1-57-55 43-13zM95 153c3-7 9-12 17-14l5-1 1 1 57 55-71 20-12-40c-2-7-1-15 3-21zm11 79h71l-34 60h-37v-60zm245 60l34-60h36v60h-70z' clip-rule='evenodd'/%3E%3Cpath fill='%2321A038' fill-rule='evenodd' d='M264 446a8 8 0 000 16 8 8 0 000-16z' clip-rule='evenodd'/%3E%3C/svg%3E",
+  "bannerTextInJournal": "«Как начать свой блог — получать от него удовольствие и зарабатывать",
+  "bannerUrlInJournal": "https://sberbankaktivno.ru/blogger?utm_campaign=journal&utm_medium=banner&utm_source=journal&utm_content=blogger",
+  "bannerUrlencodedSvg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='20' d='M256 10h0M30 438V214s0-39 48-39m404 263H30c-44-7-12 65 35 65h382c49 0 78-74 35-65zm0-214v214m-222-76l42 42m-175-74h165m64-64H127m333-104L260 362l-32 76 74-34 200-199zm-174 40h93m-252 0h84m122-64h52m-258 0h150m-56-64h164m-258 0h38m46-64H78v428h356V273m0-84V10H301'/%3E%3C/svg%3E",
   "percentageOnMirCardPage": "3,5%"
 }

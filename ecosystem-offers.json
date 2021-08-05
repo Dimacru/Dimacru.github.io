@@ -42,7 +42,7 @@
     {
         "id": 3,
         "title": "Выгодные ставки для пенсионеров",
-        "description": "Заработайте на накоплениях с вкладами Сохраняй и Пополняй",
+        "description": "Заработайте на накоплениях с вкладами <a href='https://www.sberbank.ru/ru/person/contributions/deposits/renew_online'>«Пополняй»</a> и <a href='https://www.sberbank.ru/ru/person/contributions/deposits/save_online'>«Сохраняй»</a>",
         "logo": "sber",
         "directionTitle": "Финансы",
         "illustration": "",
@@ -142,7 +142,7 @@
     {
         "id": 8,
         "title": "СберМегаМаркет",
-        "description": "Заказывайте продукты из любимого магазина не выходя из дома.Скидка <b>500 ₽</b> на первый заказ от 2 500 ₽ по промокоду <b>sberactive</b>",
+        "description": "Заказывайте продукты из любимого магазина не выходя из дома. Скидка <b>500 ₽</b> на первый заказ от 2 500 ₽ по промокоду <b>sberactive</b>",
         "logo": "megaMarket",
         "directionTitle": "Покупки",
         "illustration": "",

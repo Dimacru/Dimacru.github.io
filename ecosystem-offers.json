@@ -318,5 +318,25 @@
     "promocode": "",
     "style": "",
     "status": "Опубликован"
+  },
+  {
+    "id": 17,
+    "title": "Кредитная СберКарта",
+    "description": "До 120 дней без %. Спецставка 9,8% на покупки в категории «Здоровье» после льготного периода.",
+    "logo": "/static/images/offers/icon/sber.svg",
+    "directionTitle": "Финансы",
+    "illustration": "",
+    "note": "Кредитная СберКарта. С подробными условиями вы можете ознакомиться на сайте <a href=\"https://www.sberbank.ru/ru/person/bank_cards/debit/sberkarta\">sberbank.ru</a>",
+    "buttonLink": "https://www.sberbank.ru/ru/person/bank_cards/debit/sberkarta?_ga=2.203664727.636523163.1631517086-613487686.1629101177#order",
+    "buttonLabel": "Оформить онлайн",
+    "order": 2,
+    "articleUrl": "",
+    "articleImg": "",
+    "articleDate": "",
+    "articleName": "",
+    "sizeOffer": "",
+    "promocode": "",
+    "style": "",
+    "status": "Опубликован"
   }
 ]

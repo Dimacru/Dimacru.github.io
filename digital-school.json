@@ -20,7 +20,7 @@
       "description": "Узнайте, как использовать банковские приложения и грамотно управлять финансами",
       "sort": 1,
       "shortname": "finance",
-      "lessonList": [9, 10, 11, 12, 13, 14, 15, 16, 17]
+      "lessonList": [9, 10, 11, 12, 13, 14, 15, 17]
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "description": "Узнайте, как работают современные онлайн-кинотеатры и как ими пользоваться",
       "sort": 1,
       "shortname": "entertainment",
-      "lessonList": [18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+      "lessonList": [18, 19, 20, 21, 22, 24, 26, 27]
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "description": "Узнайте, как зарегистрироваться в онлайн-магазине и сделать первые покупки",
       "sort": 1,
       "shortname": "life",
-      "lessonList": [28, 29, 30, 31, 32, 33, 34]
+      "lessonList": [28, 29, 30, 31, 32, 33, 34, 35]
     }
   ],
   "lessons": [
@@ -46,7 +46,7 @@
       "id": 1,
       "badgeText": "УРОК 1",
       "smallText": "Лекция",
-      "title": "Зачем покупать онлайн, если возле дома есть аптека",
+      "title": "Зачем покупать онлайн, если есть аптека у дома",
       "link": "https://sberbankaktivno.ru/journal/article/2501",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -55,7 +55,7 @@
       "id": 2,
       "badgeText": "УРОК 2",
       "smallText": "Лекция",
-      "title": "Как устроены современные онлайн-сервисы для покупки лекарств",
+      "title": "Как работают онлайн-аптеки",
       "link": "https://sberbankaktivno.ru/journal/article/2502",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -64,8 +64,8 @@
       "id": 3,
       "badgeText": "УРОК 3",
       "smallText": "Видео",
-      "title": "Как зарегистрироваться и сделать заказ в онлайн-аптеке",
-      "link": "https://youtu.be/ВИДЕО",
+      "title": "Как зарегистрироваться и сделать заказ в онлайн-аптеке",
+      "link": "https://sberbankaktivno.ru/journal/article/2548",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
     },
@@ -73,7 +73,7 @@
       "id": 4,
       "badgeText": "УРОК 4",
       "smallText": "Лекция",
-      "title": "Самые частые вопросы и опасения при покупке лекарств онлайн",
+      "title": "Частые вопросы и опасения про заказ лекарств в интернете",
       "link": "https://sberbankaktivno.ru/journal/article/2503",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -82,7 +82,7 @@
       "id": 5,
       "badgeText": "УРОК 5",
       "smallText": "Лекция",
-      "title": "Заказ лекарств онлайн: основные выводы, правила и понятия",
+      "title": "Заказ лекарств онлайн: основные выводы, правила и понятия",
       "link": "https://sberbankaktivno.ru/journal/article/2504",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -91,7 +91,7 @@
       "id": 6,
       "badgeText": "ТЕСТ",
       "smallText": "Тест",
-      "title": "Как купить все необходимое и сэкономить ресурсы",
+      "title": "Как пользоваться онлайн-аптекой и экономить нервы",
       "link": "https://sberbankru.typeform.com/to/HPzexAyy",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -100,7 +100,7 @@
       "id": 7,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Лекция",
-      "title": "Советы, скидки, ссылки и другие полезные рекомендации при покупке лекарств онлайн",
+      "title": "Советы, ссылки и скидки – самое главное о здоровье и лекарствах",
       "link": "https://sberbankaktivno.ru/journal/article/2505",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -109,7 +109,7 @@
       "id": 8,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Видео",
-      "title": "YouTube-шоу «Активные старшие», выпуск «Здоровье» ",
+      "title": "YouTube-шоу «Активные старшие», выпуск «Здоровье»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1
@@ -118,7 +118,7 @@
       "id": 9,
       "badgeText": "УРОК 1",
       "smallText": "Лекция",
-      "title": "Почему важно управлять своими финансами и ставить цели",
+      "title": "Почему каждому важно считать свои деньги",
       "link": "https://sberbankaktivno.ru/journal/article/2506",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -127,7 +127,7 @@
       "id": 10,
       "badgeText": "УРОК 2",
       "smallText": "Лекция",
-      "title": "Этапы управления личными финансами и главные правила их учета",
+      "title": "Как взять свои деньги под контроль",
       "link": "https://sberbankaktivno.ru/journal/article/2507",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -136,7 +136,7 @@
       "id": 11,
       "badgeText": "УРОК 3",
       "smallText": "Лекция",
-      "title": "Как использовать мобильные банковские приложения, чтобы грамотно вести учёт средств",
+      "title": "Как контролировать свои деньги в приложении банка",
       "link": "https://sberbankaktivno.ru/journal/article/2508",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -145,7 +145,7 @@
       "id": 12,
       "badgeText": "УРОК 4",
       "smallText": "Лекция",
-      "title": "Самые частые вопросы и опасения при использовании онлайн-банкинга",
+      "title": "Частые вопросы и опасения про учет денег и онлайн-банки",
       "link": "https://sberbankaktivno.ru/journal/article/2509",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -154,7 +154,7 @@
       "id": 13,
       "badgeText": "УРОК 5",
       "smallText": "Лекция",
-      "title": "Учет финансов онлайн: основные выводы, правила и понятия",
+      "title": "Главное про учёт личных финансов",
       "link": "https://sberbankaktivno.ru/journal/article/2510",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -163,7 +163,7 @@
       "id": 14,
       "badgeText": "ТЕСТ",
       "smallText": "Тест",
-      "title": "Как сократить необязательные расходы и сохранить спокойствие ",
+      "title": "Насколько хорошо вы сохраняете деньги",
       "link": "https://sberbankru.typeform.com/to/ca6zi1dK",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -172,17 +172,8 @@
       "id": 15,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Лекция",
-      "title": "Как контролировать деньги с помощью онлайн-сервисов — рекомендации",
+      "title": "Советы, рекомендации и положительные финансовые привычки",
       "link": "https://sberbankaktivno.ru/journal/article/2511",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
-    },
-    {
-      "id": 16,
-      "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
-      "smallText": "Видео",
-      "title": "Доп видео ",
-      "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
     },
@@ -190,7 +181,7 @@
       "id": 17,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Видео",
-      "title": "YouTube-шоу «Активные старшие», выпуск «Финансовая грамотность» ",
+      "title": "YouTube-шоу «Активные старшие», выпуск «Финансовая грамотность»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2
@@ -199,7 +190,7 @@
       "id": 18,
       "badgeText": "УРОК 1",
       "smallText": "Лекция",
-      "title": "Заменит ли онлайн -кинотеатр телевидение? ",
+      "title": "Как телевидение управляет вашим временем",
       "link": "https://sberbankaktivno.ru/journal/article/2512",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
@@ -208,7 +199,7 @@
       "id": 19,
       "badgeText": "УРОК 2",
       "smallText": "Лекция",
-      "title": "Как работают современные онлайн-кинотеатры и сервисы",
+      "title": "Как работают онлайн-кинотеатры",
       "link": "https://sberbankaktivno.ru/journal/article/2513",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
@@ -217,8 +208,8 @@
       "id": 20,
       "badgeText": "УРОК 3",
       "smallText": "Видео",
-      "title": "Как установить приложение и начать пользоваться онлайн-кинотеатром (видео)",
-      "link": "https://youtu.be/ВИДЕО",
+      "title": "Как посмотреть свой первый фильм в онлайн-кинотеатре",
+      "link": "https://sberbankaktivno.ru/journal/article/2514",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
     },
@@ -226,8 +217,8 @@
       "id": 21,
       "badgeText": "УРОК 4",
       "smallText": "Лекция",
-      "title": "Как установить приложение и начать пользоваться онлайн-кинотеатром (текст)",
-      "link": "https://sberbankaktivno.ru/journal/article/2514",
+      "title": "Вопросы и опасения при просмотре кино и сериалов онлайн",
+      "link": "https://sberbankaktivno.ru/journal/article/2515",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
     },
@@ -235,16 +226,7 @@
       "id": 22,
       "badgeText": "УРОК 5",
       "smallText": "Лекция",
-      "title": "Самые частые вопросы и опасения при просмотре кино и сериалов онлайн",
-      "link": "https://sberbankaktivno.ru/journal/article/2515",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
-    },
-    {
-      "id": 23,
-      "badgeText": "УРОК 6",
-      "smallText": "Лекция",
-      "title": "Кино и сериалы онлайн: основные выводы, правила и понятия",
+      "title": "Кино и сериалы онлайн: основные выводы, правила и понятия",
       "link": "https://sberbankaktivno.ru/journal/article/2516",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
@@ -253,17 +235,8 @@
       "id": 24,
       "badgeText": "ТЕСТ",
       "smallText": "Тест",
-      "title": "Эстет или любитель: какой вы зритель онлайн кинотеатра",
+      "title": "Какой вы зритель онлайн-кинотеатра",
       "link": "https://sberbankru.typeform.com/to/bFfGAvyK",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
-    },
-    {
-      "id": 25,
-      "badgeText": "ДОПОЛНИТЕЛЬНО",
-      "smallText": "Видео",
-      "title": "Как купить билеты в кино, театр или музей онлайн ",
-      "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
     },
@@ -271,7 +244,7 @@
       "id": 26,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Лекция",
-      "title": "Кино-подборки, новинки и другие возможности сервисов по подписке",
+      "title": "Кино-подборки, новинки и другие возможности сервисов по подписке",
       "link": "https://sberbankaktivno.ru/journal/article/2517",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
@@ -280,7 +253,7 @@
       "id": 27,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Видео",
-      "title": "YouTube-шоу «Активные старшие», выпуск «Культура и искусство» ",
+      "title": "YouTube-шоу «Активные старшие», выпуск «Культура и искусство»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
@@ -289,7 +262,7 @@
       "id": 28,
       "badgeText": "УРОК 1",
       "smallText": "Лекция",
-      "title": "Как сэкономить время и деньги на покупках продуктов онлайн",
+      "title": "Как сэкономить время и деньги на покупках продуктов онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2518",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -307,7 +280,7 @@
       "id": 30,
       "badgeText": "УРОК 3",
       "smallText": "Видео",
-      "title": "Как зарегистрироваться в онлайн магазине и сделать первые покупки",
+      "title": "Как зарегистрироваться в онлайн магазине и сделать первые покупки",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -316,7 +289,7 @@
       "id": 31,
       "badgeText": "УРОК 4",
       "smallText": "Лекция",
-      "title": "Самые частые вопросы и опасения при покупке продуктов онлайн",
+      "title": "Самые частые вопросы и опасения при покупке продуктов онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2520",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -325,7 +298,7 @@
       "id": 32,
       "badgeText": "УРОК 5",
       "smallText": "Лекция",
-      "title": "Покупка продуктов онлайн: основные выводы, правила и понятия",
+      "title": "Покупка продуктов онлайн: основные выводы, правила и понятия",
       "link": "https://sberbankaktivno.ru/journal/article/2521",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -334,7 +307,7 @@
       "id": 33,
       "badgeText": "ТЕСТ",
       "smallText": "Тест",
-      "title": "Онлайн или офлайн? Определите наиболее оптимальный способ покупки",
+      "title": "Как закупиться продуктами, когда и так полно дел",
       "link": "https://sberbankru.typeform.com/to/bndGnJiL",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -343,8 +316,17 @@
       "id": 34,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Лекция",
-      "title": "Бонусы, скидки, акции и другие советы, как сэкономить при онлайн-покупках",
+      "title": "Бонусы, скидки, акции и другие советы, как сэкономить при онлайн-покупках",
       "link": "https://sberbankaktivno.ru/journal/article/2522",
+      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
+      "course": 4
+    },
+    {
+      "id": 35,
+      "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
+      "smallText": "Видео",
+      "title": "YouTube-шоу «Активные старшие», выпуск «Новые технологии»",
+      "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
     }

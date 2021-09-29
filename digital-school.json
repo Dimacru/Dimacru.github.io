@@ -98,7 +98,7 @@
       "smallText": "Тест",
       "title": "Как пользоваться онлайн-аптекой и экономить нервы",
       "link": "https://sberbankru.typeform.com/to/HPzexAyy",
-      "image": "https://sberbankaktivno.ru/static/images/digital-school/test1.jpg",
+      "image": "/static/images/digital-school/test1.jpg",
       "course": 1,
       "isDisabled": ""
     },
@@ -118,7 +118,7 @@
       "smallText": "Видео",
       "title": "YouTube-шоу «Активные старшие», выпуск «Здоровье»",
       "link": "https://youtu.be/ВИДЕО",
-      "image": "https://sberbankaktivno.ru/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
+      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 1,
       "isDisabled": "черновик"
     },
@@ -178,7 +178,7 @@
       "smallText": "Тест",
       "title": "Насколько хорошо вы сохраняете деньги",
       "link": "https://sberbankru.typeform.com/to/ca6zi1dK",
-      "image": "https://sberbankaktivno.ru/static/images/digital-school/test2.jpg",
+      "image": "/static/images/digital-school/test2.jpg",
       "course": 2,
       "isDisabled": ""
     },
@@ -198,7 +198,7 @@
       "smallText": "Видео",
       "title": "YouTube-шоу «Активные старшие», выпуск «Финансовая грамотность»",
       "link": "https://youtu.be/ВИДЕО",
-      "image": "https://sberbankaktivno.ru/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
+      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 2,
       "isDisabled": "черновик"
     },
@@ -258,7 +258,7 @@
       "smallText": "Тест",
       "title": "Какой вы зритель онлайн-кинотеатра",
       "link": "https://sberbankru.typeform.com/to/bFfGAvyK",
-      "image": "https://sberbankaktivno.ru/static/images/digital-school/test3.jpg",
+      "image": "/static/images/digital-school/test3.jpg",
       "course": 3,
       "isDisabled": ""
     },
@@ -278,7 +278,7 @@
       "smallText": "Видео",
       "title": "YouTube-шоу «Активные старшие», выпуск «Культура и искусство»",
       "link": "https://youtu.be/ВИДЕО",
-      "image": "https://sberbankaktivno.ru/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
+      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3,
       "isDisabled": "черновик"
     },
@@ -298,7 +298,7 @@
       "smallText": "Лекция",
       "title": "Как экономить время и деньги, покупая продукты в интернете",
       "link": "https://sberbankaktivno.ru/journal/article/2519",
-      "image": "https://sberbankaktivno.ru/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
+      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4,
       "isDisabled": ""
     },
@@ -338,7 +338,7 @@
       "smallText": "Тест",
       "title": "Как закупиться продуктами, когда и так полно дел",
       "link": "https://sberbankru.typeform.com/to/bndGnJiL",
-      "image": "https://sberbankaktivno.ru/static/images/digital-school/test4.jpg",
+      "image": "/static/images/digital-school/test4.jpg",
       "course": 4,
       "isDisabled": ""
     },
@@ -358,7 +358,7 @@
       "smallText": "Видео",
       "title": "YouTube-шоу «Активные старшие», выпуск «Новые технологии»",
       "link": "https://youtu.be/ВИДЕО",
-      "image": "https://sberbankaktivno.ru/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
+      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4,
       "isDisabled": "черновик"
     }

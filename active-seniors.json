@@ -1,0 +1,71 @@
+{
+  "seasons": [
+    {
+      "title": "Второй сезон",
+      "list": [
+        {
+          "id": "s2e1",
+          "link": "https://youtu.be/SId91bEyn08",
+          "image": "/static/images/active-seniors-posters/s2e1.jpg",
+          "heading": "Как выгодно делать покупки и следить за здоровьем",
+          "description": "Как получить заряд бодрости и хорошего настроения? Как использовать современные технологии себе на пользу ‑ делать покупки, проходить консультации онлайн."
+        },
+        {
+          "id": "s2e2",
+          "link": "https://youtu.be/8VE2UZ_4ZAc",
+          "image": "/static/images/active-seniors-posters/s2e2.jpg",
+          "heading": "Как современные технологии упрощают жизнь",
+          "description": "В этом выпуске актриса театра и кино Юлия Рутберг подробно рассказывает о современных технологиях, которые избавляют от рутины и экономят время.",
+          "soon": "Новая серия активных старших выйдет 08 октября 2021 г."
+        }
+      ]
+    },
+    {
+      "title": "Первый сезон",
+      "list": [
+        {
+          "id": "s1e3",
+          "link": "https://youtu.be/SId91bEyn08",
+          "image": "/static/images/active-seniors-posters/s1e3.jpg",
+          "heading": "Тренер по скандинавской ходьбе Валерий Богомолов",
+          "description": "Рассказал, как оставаться в хорошей форме и проводить время с пользой на свежем воздухе"
+        },
+        {
+          "id": "s1e2",
+          "link": "https://youtu.be/8VE2UZ_4ZAc",
+          "image": "/static/images/active-seniors-posters/s1e2.jpg",
+          "heading": "Мастер восточной гимнастики Чжан Шаньмин",
+          "description": "Мастер тайцзи и цигун поделился советами, как поддерживать здоровье, набраться сил и энергии в любом возрасте"
+        },
+        {
+          "id": "s1e4",
+          "link": "https://youtu.be/p6KEpjY3wl4",
+          "image": "/static/images/active-seniors-posters/s1e4.jpg",
+          "heading": "Преподаватель йоги Елена Стрельцова",
+          "description": "Делится опытом и советами, с чего начать тренировки и как поддерживать себя в хорошей форме"
+        },
+        {
+          "id": "s1e5",
+          "link": "https://youtu.be/Ds6JBB9IInI",
+          "image": "/static/images/active-seniors-posters/s1e5.jpg",
+          "heading": "Бьюти-эксперт Алёна Лущевская",
+          "description": "Профессиональный разбор ухода за кожей и простые правила, как оставаться привлекательной в любом возрасте"
+        },
+        {
+          "id": "s1e1",
+          "link": "https://youtu.be/ELjCpjlPoVc",
+          "image": "/static/images/active-seniors-posters/s1e1.jpg",
+          "heading": "Шеф-повар ресторана Вадим Каневский",
+          "description": "Как питаться вкусно и правильно? О здоровом питании и быстрых рецептах рассказал член национальной гильдии шеф-поваров"
+        },
+        {
+          "id": "s1e6",
+          "link": "https://youtu.be/5mnj8umHb1w",
+          "image": "/static/images/active-seniors-posters/s1e6.jpg",
+          "heading": "Актёр театра и кино Александр Шелудько",
+          "description": "Поделился опытом службы в драматическом театре и порекомендовал книги, чтобы говорить"
+        }
+      ]
+    }
+  ]
+}

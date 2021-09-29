@@ -112,7 +112,8 @@
       "title": "YouTube-шоу «Активные старшие», выпуск «Здоровье»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "course": 1,
+      "isDisabled": "черновик"
     },
     {
       "id": 9,
@@ -184,7 +185,8 @@
       "title": "YouTube-шоу «Активные старшие», выпуск «Финансовая грамотность»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "course": 2,
+      "isDisabled": "черновик"
     },
     {
       "id": 18,
@@ -244,7 +246,7 @@
       "id": 26,
       "badgeText": "ПОЛЕЗНЫЕ МАТЕРИАЛЫ",
       "smallText": "Лекция",
-      "title": "Кино-подборки, новинки и другие возможности сервисов по подписке",
+      "title": "Рекомендации и подборки фильмов из онлайн-кинотеатров",
       "link": "https://sberbankaktivno.ru/journal/article/2517",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 3
@@ -256,13 +258,14 @@
       "title": "YouTube-шоу «Активные старшие», выпуск «Культура и искусство»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "course": 3,
+      "isDisabled": "черновик"
     },
     {
       "id": 28,
       "badgeText": "УРОК 1",
       "smallText": "Лекция",
-      "title": "Как сэкономить время и деньги на покупках продуктов онлайн",
+      "title": "Как не растратить жизнь впустую на походы по магазинам",
       "link": "https://sberbankaktivno.ru/journal/article/2518",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -271,7 +274,7 @@
       "id": 29,
       "badgeText": "УРОК 2",
       "smallText": "Лекция",
-      "title": "Как безопасно совершать покупки онлайн",
+      "title": "Как экономить время и деньги, покупая продукты в интернете",
       "link": "https://sberbankaktivno.ru/journal/article/2519",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -280,8 +283,8 @@
       "id": 30,
       "badgeText": "УРОК 3",
       "smallText": "Видео",
-      "title": "Как зарегистрироваться в онлайн магазине и сделать первые покупки",
-      "link": "https://youtu.be/ВИДЕО",
+      "title": "Как покупать продукты в интернете через мобильное приложение",
+      "link": "https://sberbankaktivno.ru/journal/article/2550",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
     },
@@ -289,7 +292,7 @@
       "id": 31,
       "badgeText": "УРОК 4",
       "smallText": "Лекция",
-      "title": "Самые частые вопросы и опасения при покупке продуктов онлайн",
+      "title": "Частые вопросы и опасения при покупке продуктов онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2520",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -298,7 +301,7 @@
       "id": 32,
       "badgeText": "УРОК 5",
       "smallText": "Лекция",
-      "title": "Покупка продуктов онлайн: основные выводы, правила и понятия",
+      "title": "Главное о том, как покупать продукты онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2521",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
       "course": 4
@@ -328,7 +331,8 @@
       "title": "YouTube-шоу «Активные старшие», выпуск «Новые технологии»",
       "link": "https://youtu.be/ВИДЕО",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "course": 4,
+      "isDisabled": "черновик"
     }
   ],
   "videos": {

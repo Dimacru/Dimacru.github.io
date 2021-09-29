@@ -48,8 +48,9 @@
       "smallText": "Лекция",
       "title": "Зачем покупать онлайн, если есть аптека у дома",
       "link": "https://sberbankaktivno.ru/journal/article/2501",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "image": "/media/article-images/coverX/ac0963819837d5d5f24d99e7e34d3a81.jpeg",
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 2,
@@ -57,8 +58,9 @@
       "smallText": "Лекция",
       "title": "Как работают онлайн-аптеки",
       "link": "https://sberbankaktivno.ru/journal/article/2502",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "image": "/media/article-images/coverX/f805fd46b247585ac5430aa6a899279a.jpeg",
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 3,
@@ -66,8 +68,9 @@
       "smallText": "Видео",
       "title": "Как зарегистрироваться и сделать заказ в онлайн-аптеке",
       "link": "https://sberbankaktivno.ru/journal/article/2548",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "image": "/media/article-images/coverX/c956fa65de76d25f64bcc3cb07c03f5e.png",
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 4,
@@ -75,8 +78,9 @@
       "smallText": "Лекция",
       "title": "Частые вопросы и опасения про заказ лекарств в интернете",
       "link": "https://sberbankaktivno.ru/journal/article/2503",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "image": "/media/article-images/coverX/012be0c2cb892ef2f91e3816d36bdd70.jpeg",
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 5,
@@ -84,8 +88,9 @@
       "smallText": "Лекция",
       "title": "Заказ лекарств онлайн: основные выводы, правила и понятия",
       "link": "https://sberbankaktivno.ru/journal/article/2504",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "image": "/media/article-images/coverX/a42a30c056fd801b99b62a147c4ee955.jpeg",
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 6,
@@ -94,7 +99,8 @@
       "title": "Как пользоваться онлайн-аптекой и экономить нервы",
       "link": "https://sberbankru.typeform.com/to/HPzexAyy",
       "image": "/static/images/digital-school/test1.jpg",
-      "course": 1
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 7,
@@ -102,8 +108,9 @@
       "smallText": "Лекция",
       "title": "Советы, ссылки и скидки – самое главное о здоровье и лекарствах",
       "link": "https://sberbankaktivno.ru/journal/article/2505",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 1
+      "image": "/media/article-images/coverX/0a473aec05962ad76729400c77486bb8.jpeg",
+      "course": 1,
+      "isDisabled": ""
     },
     {
       "id": 8,
@@ -121,8 +128,9 @@
       "smallText": "Лекция",
       "title": "Почему каждому важно считать свои деньги",
       "link": "https://sberbankaktivno.ru/journal/article/2506",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "image": "/media/article-images/coverX/80c650f5e42c5776a18382ac50039367.jpeg",
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 10,
@@ -130,8 +138,9 @@
       "smallText": "Лекция",
       "title": "Как взять свои деньги под контроль",
       "link": "https://sberbankaktivno.ru/journal/article/2507",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "image": "/media/article-images/coverX/4a8a4fb6a7bc850378b858601dac2868.jpeg",
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 11,
@@ -139,8 +148,9 @@
       "smallText": "Лекция",
       "title": "Как контролировать свои деньги в приложении банка",
       "link": "https://sberbankaktivno.ru/journal/article/2508",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "image": "/media/article-images/coverX/b36992c3f0e787cd0ed5903244848d37.jpeg",
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 12,
@@ -148,8 +158,9 @@
       "smallText": "Лекция",
       "title": "Частые вопросы и опасения про учет денег и онлайн-банки",
       "link": "https://sberbankaktivno.ru/journal/article/2509",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "image": "/media/article-images/coverX/9b4a51688ed5ad1aa1ba88157f0fdef2.jpeg",
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 13,
@@ -157,8 +168,9 @@
       "smallText": "Лекция",
       "title": "Главное про учёт личных финансов",
       "link": "https://sberbankaktivno.ru/journal/article/2510",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "image": "/media/article-images/coverX/e1148f0bf7ab7a89f0e5b650c175819b.jpeg",
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 14,
@@ -167,7 +179,8 @@
       "title": "Насколько хорошо вы сохраняете деньги",
       "link": "https://sberbankru.typeform.com/to/ca6zi1dK",
       "image": "/static/images/digital-school/test2.jpg",
-      "course": 2
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 15,
@@ -175,8 +188,9 @@
       "smallText": "Лекция",
       "title": "Советы, рекомендации и положительные финансовые привычки",
       "link": "https://sberbankaktivno.ru/journal/article/2511",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 2
+      "image": "/media/article-images/coverX/ff3d2363aaf5526fba6c45067ee61ac0.jpeg",
+      "course": 2,
+      "isDisabled": ""
     },
     {
       "id": 17,
@@ -194,8 +208,9 @@
       "smallText": "Лекция",
       "title": "Как телевидение управляет вашим временем",
       "link": "https://sberbankaktivno.ru/journal/article/2512",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "image": "/media/article-images/coverX/72aaea0bb8fcae5451e4b8d68b061f20.jpeg",
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 19,
@@ -203,8 +218,9 @@
       "smallText": "Лекция",
       "title": "Как работают онлайн-кинотеатры",
       "link": "https://sberbankaktivno.ru/journal/article/2513",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "image": "/media/article-images/coverX/2335484815071ca2cb20753797046060.jpeg",
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 20,
@@ -212,8 +228,9 @@
       "smallText": "Видео",
       "title": "Как посмотреть свой первый фильм в онлайн-кинотеатре",
       "link": "https://sberbankaktivno.ru/journal/article/2514",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "image": "/media/article-images/coverX/5afd5c21a4300eba72a84cba5df0e9a3.jpeg",
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 21,
@@ -221,8 +238,9 @@
       "smallText": "Лекция",
       "title": "Вопросы и опасения при просмотре кино и сериалов онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2515",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "image": "/media/article-images/coverX/8ec096152d3e0dc0d5ddceb3fba3ba0b.jpeg",
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 22,
@@ -230,8 +248,9 @@
       "smallText": "Лекция",
       "title": "Кино и сериалы онлайн: основные выводы, правила и понятия",
       "link": "https://sberbankaktivno.ru/journal/article/2516",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "image": "/media/article-images/coverX/72313ba2277442ad5673c600299705f7.jpeg",
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 24,
@@ -240,7 +259,8 @@
       "title": "Какой вы зритель онлайн-кинотеатра",
       "link": "https://sberbankru.typeform.com/to/bFfGAvyK",
       "image": "/static/images/digital-school/test3.jpg",
-      "course": 3
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 26,
@@ -248,8 +268,9 @@
       "smallText": "Лекция",
       "title": "Рекомендации и подборки фильмов из онлайн-кинотеатров",
       "link": "https://sberbankaktivno.ru/journal/article/2517",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 3
+      "image": "/media/article-images/coverX/de2880835153e350af8b98d5ea8a1612.jpeg",
+      "course": 3,
+      "isDisabled": ""
     },
     {
       "id": 27,
@@ -267,8 +288,9 @@
       "smallText": "Лекция",
       "title": "Как не растратить жизнь впустую на походы по магазинам",
       "link": "https://sberbankaktivno.ru/journal/article/2518",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "image": "/media/article-images/coverX/1cc9f2955a94a88a5c87fb5cffb45468.jpeg",
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 29,
@@ -277,7 +299,8 @@
       "title": "Как экономить время и деньги, покупая продукты в интернете",
       "link": "https://sberbankaktivno.ru/journal/article/2519",
       "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 30,
@@ -285,8 +308,9 @@
       "smallText": "Видео",
       "title": "Как покупать продукты в интернете через мобильное приложение",
       "link": "https://sberbankaktivno.ru/journal/article/2550",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "image": "/media/article-images/coverX/37ddbeb11d66da19d57dc0853ea8c63f.jpeg",
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 31,
@@ -294,8 +318,9 @@
       "smallText": "Лекция",
       "title": "Частые вопросы и опасения при покупке продуктов онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2520",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "image": "/media/article-images/coverX/f3a58bace90c19d41c4564aa0f43ab25.jpeg",
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 32,
@@ -303,8 +328,9 @@
       "smallText": "Лекция",
       "title": "Главное о том, как покупать продукты онлайн",
       "link": "https://sberbankaktivno.ru/journal/article/2521",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "image": "/media/article-images/coverX/cd61d62df5875f955246c495203b6360.jpeg",
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 33,
@@ -313,7 +339,8 @@
       "title": "Как закупиться продуктами, когда и так полно дел",
       "link": "https://sberbankru.typeform.com/to/bndGnJiL",
       "image": "/static/images/digital-school/test4.jpg",
-      "course": 4
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 34,
@@ -321,8 +348,9 @@
       "smallText": "Лекция",
       "title": "Бонусы, скидки, акции и другие советы, как сэкономить при онлайн-покупках",
       "link": "https://sberbankaktivno.ru/journal/article/2522",
-      "image": "/static/images/s1e1Image_30e5571437b0c3d94cb1431518ecd6b4.jpg",
-      "course": 4
+      "image": "/media/article-images/coverX/90909773cde34947914b78d52d6e0120.jpeg",
+      "course": 4,
+      "isDisabled": ""
     },
     {
       "id": 35,

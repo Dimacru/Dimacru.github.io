@@ -17,7 +17,7 @@
   "button": true,
   "buttonName": "Узнать больше",
   "buttonLink": "www.sprrt.ru",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {

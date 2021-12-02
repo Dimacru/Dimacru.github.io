@@ -17,8 +17,8 @@
   "button": true,
   "buttonName": "Узнать больше",
   "buttonLink": "http://www.spr37.ru/)",
-  "isOnline": true,
-  "isOffline": false
+  "isOnline": false,
+  "isOffline": true
  },
  {
   "blockName": "Как стать участником?",

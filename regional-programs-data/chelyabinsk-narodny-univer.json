@@ -17,7 +17,7 @@
   "button": true,
   "buttonName": "Узнать больше",
   "buttonLink": "http://www.znanie74.ru//index.php?option=com_content&task=view&id=41&Itemid=25",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {

@@ -6,7 +6,7 @@
   "subtitle": "Крупнейший оздоровительный, образовательный и досуговый проект Мэра Москвы для активных москвичей старшего поколения",
   "path": "/regional/mos-dolgoletie",
   "filename": "moscow-dolgoletie.json",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {
@@ -17,7 +17,7 @@
   "path": "/regional/senior-school",
   "filename": "ekb-old-school.json",
   "isOnline": true,
-  "isOffline": false
+  "isOffline": true
  },
  {
   "id": 8,
@@ -36,8 +36,8 @@
   "subtitle": "Клуб организует досуг гражданам всех возрастов. Участники клуба общаются, делятся своим опытом, мастерством, хорошим настроением и совместно укрепляют здоровье",
   "path": "/regional/ufa-gold-years",
   "filename": "ufa-gold-years.json",
-  "isOnline": true,
-  "isOffline": false
+  "isOnline": false,
+  "isOffline": true
  },
  {
   "id": 10,
@@ -46,7 +46,7 @@
   "subtitle": "Здесь можно получить дополнительное образование, повысить квалификацию и просто провести время в компании друзей",
   "path": "/regional/znanie",
   "filename": "chelyabinsk-narodny-univer.json",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {
@@ -56,8 +56,8 @@
   "subtitle": "Проект вовлекает в культурную жизнь людей «золотого» возраста, обеспечивает содержательный досуг и поддерживает жизненный тонус участников",
   "path": "/regional/zhiznelyub",
   "filename": "kazan-swinger.json",
-  "isOnline": true,
-  "isOffline": false
+  "isOnline": false,
+  "isOffline": true
  },
  {
   "id": 12,
@@ -66,7 +66,7 @@
   "subtitle": "Проект призван улучшать качество жизни старшего поколения, защищает права и жизненные интересы пенсионеров, вовлекает их в общественную жизнь",
   "path": "/regional/rospensioner_kazan",
   "filename": "kazan-spr.json",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {
@@ -76,8 +76,8 @@
   "subtitle": "Проект улучшает качество жизни старшего поколения, защищает права и жизненные интересы пенсионеров, вовлекает их в общественную жизнь",
   "path": "/regional/rospensioner_ivanovo",
   "filename": "ivanovo-spr.json",
-  "isOnline": true,
-  "isOffline": false
+  "isOnline": false,
+  "isOffline": true
  },
  {
   "id": 14,
@@ -97,7 +97,7 @@
   "path": "/regional/zabota",
   "filename": "nnovgorod-zabota.json",
   "isOnline": true,
-  "isOffline": false
+  "isOffline": true
  },
  {
   "id": 16,
@@ -117,7 +117,7 @@
   "path": "/regional/rostov-spr",
   "filename": "rostov-spr.json",
   "isOnline": true,
-  "isOffline": false
+  "isOffline": true
  },
  {
   "id": 18,
@@ -126,7 +126,7 @@
   "subtitle": "Анонс мероприятий, планирование обучения, участие в творческих встречах, консультации от экспертов",
   "path": "/regional/pensioneronline",
   "filename": "novosib-online.json",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {
@@ -136,8 +136,8 @@
   "subtitle": "Проект призван улучшать качество жизни людей старшего возраста, защищать права и жизненные интересы пенсионеров и вовлекать их в общественную жизнь",
   "path": "/regional/rospensioner_yaroslavl",
   "filename": "yaroslavl-spr.json",
-  "isOnline": true,
-  "isOffline": false
+  "isOnline": false,
+  "isOffline": true
  },
  {
   "id": 20,
@@ -146,7 +146,7 @@
   "subtitle": "Проект «СТАРШИЕ» нацелен на повышение качества жизни людей через работу местных сообществ с аудиторией возраста 50+",
   "path": "/regional/dobrygorod",
   "filename": "spb-kind-city.json",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  }
 ]

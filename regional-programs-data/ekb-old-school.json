@@ -18,7 +18,7 @@
   "buttonName": "Узнать больше",
   "buttonLink": "https://uralsocinform.ru",
   "isOnline": true,
-  "isOffline": false
+  "isOffline": true
  },
  {
   "blockName": "Как стать участником?",

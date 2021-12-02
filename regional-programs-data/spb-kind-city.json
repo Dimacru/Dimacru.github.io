@@ -17,7 +17,7 @@
   "button": true,
   "buttonName": "Узнать больше",
   "buttonLink": "https://vk.com./starshieonline",
-  "isOnline": false,
+  "isOnline": true,
   "isOffline": true
  },
  {

@@ -18,7 +18,8 @@
   "buttonName": "Узнать больше",
   "buttonLink": "https://www.mos.ru/city/projects/dolgoletie/",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "img": "https://picsum.photos/200/300"
  },
  {
   "blockName": "Как стать участником?",

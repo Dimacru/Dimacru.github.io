@@ -16,12 +16,14 @@
   "description": "Еженедельно в клубе Пенсионеры-онлайн проводятся очные встречи. Это могут быть обучающие лекции, творческие мастер-классы, консультации и многое другое. В конце каждого месяца расписание формируется на следующий месяц. Предварительная запись не требуется, если это не указано в описании мероприятия.",
   "button": true,
   "buttonName": "Узнать больше",
-  "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn"
+  "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn",
+  "isOnline": false,
+  "isOffline": true
  },
  {
   "blockName": "Как стать участником?",
   "title": "Как стать участником?",
-  "description": "1. Выберите интересующие вас направления\r\n2. Приходите на занятия в удобное для вас время",
+  "description": "Выберите интересующие вас направления\r\n\r\nПриходите на занятия в удобное для вас время",
   "button": false
  },
  {
@@ -46,19 +48,22 @@
     "title": "Информационный новостной сайт для пенсионеров",
     "description": "На сайте вы всегда найдете актуальную информацию для предпенсионеров и пенсионеров: нововведения государственного и регионального масштаба, вопросы экологии, скидки, информацию о наших партнерах, и многое другое.",
     "buttonLink": "https://pensioner54.ru",
-    "order": 10
+    "order": 10,
+    "id": 91
    },
    {
     "title": "Клуб «Пенсионеры-онлайн»",
     "description": "Это сообщество активных интересных людей, которые не хотят «сидеть на печи», а желают учиться новому, общаться, совместно менять что-то к лучшему, набираться энергии и эмоций на долгую жизнь. Мы встречаемся каждый вторник в нашем клубе! Приглашаем для вас специалистов по различной тематике, интересных людей, проводим обсуждения посещенных спектаклей, концертов, кинофильмов, а также организовываем совместные культурные выходы.",
     "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn",
-    "order": 20
+    "order": 20,
+    "id": 92
    },
    {
     "title": "Медиа-студия «Пенсионеры- онлайн»",
     "description": "В этом разделе вы найдете все, что касается обучения компьютерной грамотности: анонсы онлайн-мероприятий и очных встреч, курсов, а также полезные статьи и ссылки.",
     "buttonLink": "https://pensioner54.ru/osnovnye-razdely/obuchenie/kompyuternyj-likbez/media-studiya-pensionery-onlajn",
-    "order": 30
+    "order": 30,
+    "id": 93
    }
   ]
  },
@@ -76,7 +81,8 @@
     "buttonEnabled": true,
     "isOnline": false,
     "buttonText": "Записаться",
-    "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn/sentyabr-2021"
+    "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn/sentyabr-2021",
+    "id": 24
    },
    {
     "title": "«Как ухаживать за больными на дому»",
@@ -86,7 +92,8 @@
     "buttonEnabled": true,
     "isOnline": false,
     "buttonText": "Записаться",
-    "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn/sentyabr-2021"
+    "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn/sentyabr-2021",
+    "id": 25
    }
   ]
  },

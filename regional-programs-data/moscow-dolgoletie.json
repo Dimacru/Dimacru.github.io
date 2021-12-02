@@ -37,10 +37,13 @@
   "blockName": "Фактоиды",
   "title1": "2018",
   "description1": "год основания",
+  "img1": "year-of-foundation",
   "title2": "400,000",
   "description2": "участников",
+  "img2": "participants",
   "title3": "30+",
   "description3": "направлений деятельности",
+  "img3": "directions",
   "enabled": true
  },
  {

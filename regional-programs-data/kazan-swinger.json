@@ -37,10 +37,13 @@
   "blockName": "Фактоиды",
   "title1": "69,000",
   "description1": "участников в 2020 году",
+  "img1": "participants",
   "title2": "80%",
   "description2": "участников — женщины",
+  "img2": "participants",
   "title3": "626",
   "description3": "мероприятий проведено",
+  "img3": "events",
   "enabled": true
  },
  {

@@ -37,10 +37,14 @@
   "blockName": "Фактоиды",
   "title1": "2017",
   "description1": "год основания",
+  "img1": "year-of-foundation",
   "title2": "1,162",
   "description2": "участников",
+  "img2": "participants",
   "title3": "22 000+",
-  "description3": "посещений досуговых центров"
+  "description3": "посещений досуговых центров",
+  "img3": "participants",
+  "enabled": true
  },
  {
   "blockName": "Активности",

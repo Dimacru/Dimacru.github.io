@@ -37,10 +37,13 @@
   "blockName": "Фактоиды",
   "title1": "8,000",
   "description1": "серебряных волонтеров",
+  "img1": "participants",
   "title2": "20+",
   "description2": "масштабных проектов",
+  "img2": "events",
   "title3": "25",
   "description3": "филиалов в регионе",
+  "img3": "branch",
   "enabled": true
  },
  {

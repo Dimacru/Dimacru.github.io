@@ -35,10 +35,14 @@
   "blockName": "Фактоиды",
   "title1": "2013",
   "description1": "год основания",
+  "img1": "year-of-foundation",
   "title2": "5000+",
   "description2": "подписчиков в социальных сетях",
+  "img2": "participants",
   "title3": "100",
-  "description3": "онлайн-мероприятий в 2021 году"
+  "description3": "онлайн-мероприятий в 2021 году",
+  "img3": "events",
+  "enabled": true
  },
  {
   "blockName": "Активности",

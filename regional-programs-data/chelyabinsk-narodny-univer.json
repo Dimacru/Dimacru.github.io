@@ -37,10 +37,13 @@
   "blockName": "Фактоиды",
   "title1": "20",
   "description1": "лет опыта",
+  "img1": "years-of-work",
   "title2": "8",
   "description2": "факультетов",
+  "img2": "faculty",
   "title3": "4",
   "description3": "филиала в городах области",
+  "img3": "branch",
   "enabled": true
  },
  {

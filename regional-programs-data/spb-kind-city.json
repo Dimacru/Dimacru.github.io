@@ -37,10 +37,14 @@
   "blockName": "Фактоиды",
   "title1": "2011",
   "description1": "год основания",
+  "img1": "year-of-foundation",
   "title2": "1,600",
   "description2": "участников",
+  "img2": "participants",
   "title3": "5",
-  "description3": "направлений деятельности"
+  "description3": "направлений деятельности",
+  "img3": "directions",
+  "enabled": true
  },
  {
   "blockName": "Активности",

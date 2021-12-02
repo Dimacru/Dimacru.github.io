@@ -37,10 +37,14 @@
   "blockName": "Фактоиды",
   "title1": "100",
   "description1": "членов организации и волонтёров",
+  "img1": "participants",
   "title2": "5,000",
   "description2": "охват благотворительной деятельности",
+  "img2": "charity",
   "title3": "24",
-  "description3": "постоянных благотворителя организации"
+  "description3": "постоянных благотворителя организации",
+  "img3": "charity",
+  "enabled": true
  },
  {
   "blockName": "Активности",

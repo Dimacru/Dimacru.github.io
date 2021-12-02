@@ -37,10 +37,13 @@
   "blockName": "Фактоиды",
   "title1": "13",
   "description1": "направлений",
+  "img1": "directions",
   "title2": "59",
   "description2": "центров в регионе",
+  "img2": "branch",
   "title3": "10",
   "description3": "лет работы",
+  "img3": "years-of-work",
   "enabled": true
  },
  {

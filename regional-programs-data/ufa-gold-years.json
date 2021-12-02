@@ -37,10 +37,13 @@
   "blockName": "Фактоиды",
   "title1": "2013",
   "description1": "год основания",
+  "img1": "year-of-foundation",
   "title2": "4",
   "description2": "республиканских фестиваля творчества",
+  "img2": "events",
   "title3": "20+",
   "description3": "акций и проектов за последние 3 года",
+  "img3": "events",
   "enabled": true
  },
  {

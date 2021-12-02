@@ -35,10 +35,14 @@
   "blockName": "Фактоиды",
   "title1": "1995",
   "description1": "год основания",
+  "img1": "year-of-foundation",
   "title2": "4,500",
   "description2": "участников",
+  "img2": "participants",
   "title3": "24",
-  "description3": "местных отделения"
+  "description3": "местных отделения",
+  "img3": "branch",
+  "enabled": true
  },
  {
   "blockName": "Активности",

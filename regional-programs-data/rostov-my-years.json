@@ -15,7 +15,7 @@
   "title": "О партнёре",
   "description": "Общество организует досуг, образование и обмен опытом для участников. Поддерживает их жизненный тонус.  Цель -  помочь людям воспринимать старость как особый период внешней и внутренней активности, как золотой период мудрости и бесценного опыта.",
   "button": true,
-  "buttonName": "Узнать больше",
+  "buttonLabel": "Узнать больше",
   "buttonLink": "https://miloserdie-na-donu.ru/proekty/moi_goda/?fbclid=IwAR1-JHDbypKjmJ8eP_EYyXi3SYp89VR50UuZfH38hblBL30I1sqMrc6_D50",
   "isOnline": false,
   "isOffline": true

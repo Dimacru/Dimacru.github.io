@@ -93,7 +93,7 @@
     "address": "https://us02web.zoom.us/j/3512193757",
     "buttonEnabled": true,
     "isOnline": true,
-    "buttonText": "Подключиться к лекции в Zoom",
+    "buttonLabel": "Подключиться к лекции в Zoom",
     "buttonLink": "https://us02web.zoom.us/j/3512193757",
     "id": 6
    }

@@ -84,7 +84,7 @@
     "address": "Помыканова Надежда, инструктор по северной ходьбе",
     "buttonEnabled": true,
     "isOnline": false,
-    "buttonText": "Записаться",
+    "buttonLabel": "Записаться",
     "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn/sentyabr-2021",
     "id": 24
    },
@@ -95,7 +95,7 @@
     "address": "О.А. Дементьева, руководитель агентства «Патронаж»",
     "buttonEnabled": true,
     "isOnline": false,
-    "buttonText": "Записаться",
+    "buttonLabel": "Записаться",
     "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn/sentyabr-2021",
     "id": 25
    }

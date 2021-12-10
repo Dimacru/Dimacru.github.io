@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "nnovgorod-zabota.json",
   "path": "/regional/zabota",
-  "city": "Нижний Новгород",
-  "order": 70
+  "city": "Нижний Новгород"
  },
  {
   "blockName": "Приветствие",

@@ -7,7 +7,8 @@
   "path": "/regional/mos-dolgoletie",
   "filename": "moscow-dolgoletie.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 10
  },
  {
   "id": 7,
@@ -17,7 +18,8 @@
   "path": "/regional/senior-school",
   "filename": "ekb-old-school.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 20
  },
  {
   "id": 8,
@@ -27,7 +29,8 @@
   "path": "/regional/seniorgeneration",
   "filename": "tyumen-senior-age.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 120
  },
  {
   "id": 9,
@@ -37,7 +40,8 @@
   "path": "/regional/ufa-gold-years",
   "filename": "ufa-gold-years.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 130
  },
  {
   "id": 10,
@@ -47,7 +51,8 @@
   "path": "/regional/znanie",
   "filename": "chelyabinsk-narodny-univer.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 140
  },
  {
   "id": 11,
@@ -57,7 +62,8 @@
   "path": "/regional/zhiznelyub",
   "filename": "kazan-swinger.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 40
  },
  {
   "id": 12,
@@ -67,7 +73,8 @@
   "path": "/regional/rospensioner_kazan",
   "filename": "kazan-spr.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 50
  },
  {
   "id": 13,
@@ -77,7 +84,8 @@
   "path": "/regional/rospensioner_ivanovo",
   "filename": "ivanovo-spr.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 30
  },
  {
   "id": 14,
@@ -87,7 +95,8 @@
   "path": "/regional/krasnodar",
   "filename": "krasnodar-pokoleniye.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 60
  },
  {
   "id": 15,
@@ -97,7 +106,8 @@
   "path": "/regional/zabota",
   "filename": "nnovgorod-zabota.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 70
  },
  {
   "id": 16,
@@ -107,7 +117,8 @@
   "path": "/regional/moigodamoebogatstvo",
   "filename": "rostov-my-years.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 90
  },
  {
   "id": 17,
@@ -117,7 +128,8 @@
   "path": "/regional/rostov-spr",
   "filename": "rostov-spr.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 100
  },
  {
   "id": 18,
@@ -127,7 +139,8 @@
   "path": "/regional/pensioneronline",
   "filename": "novosib-online.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 80
  },
  {
   "id": 19,
@@ -137,7 +150,8 @@
   "path": "/regional/rospensioner_yaroslavl",
   "filename": "yaroslavl-spr.json",
   "isOnline": false,
-  "isOffline": true
+  "isOffline": true,
+  "order": 150
  },
  {
   "id": 20,
@@ -147,6 +161,7 @@
   "path": "/regional/dobrygorod",
   "filename": "spb-kind-city.json",
   "isOnline": true,
-  "isOffline": true
+  "isOffline": true,
+  "order": 110
  }
 ]

@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "chelyabinsk-narodny-univer.json",
   "path": "/regional/znanie",
-  "city": "Челябинск",
-  "order": 140
+  "city": "Челябинск"
  },
  {
   "blockName": "Приветствие",

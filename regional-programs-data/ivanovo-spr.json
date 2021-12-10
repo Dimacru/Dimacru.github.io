@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "ivanovo-spr.json",
   "path": "/regional/rospensioner_ivanovo",
-  "city": "Иваново",
-  "order": 30
+  "city": "Иваново"
  },
  {
   "blockName": "Приветствие",

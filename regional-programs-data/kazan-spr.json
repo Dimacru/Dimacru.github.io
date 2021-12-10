@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "kazan-spr.json",
   "path": "/regional/rospensioner_kazan",
-  "city": "Казань",
-  "order": 50
+  "city": "Казань"
  },
  {
   "blockName": "Приветствие",

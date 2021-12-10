@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "ekb-old-school.json",
   "path": "/regional/senior-school",
-  "city": "Екатеринбург",
-  "order": 20
+  "city": "Екатеринбург"
  },
  {
   "blockName": "Приветствие",

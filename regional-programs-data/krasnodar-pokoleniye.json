@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "krasnodar-pokoleniye.json",
   "path": "/regional/krasnodar",
-  "city": "Краснодар",
-  "order": 60
+  "city": "Краснодар"
  },
  {
   "blockName": "Приветствие",

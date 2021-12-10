@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "spb-kind-city.json",
   "path": "/regional/dobrygorod",
-  "city": "Санкт-Петербург",
-  "order": 110
+  "city": "Санкт-Петербург"
  },
  {
   "blockName": "Приветствие",

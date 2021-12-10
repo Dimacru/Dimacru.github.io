@@ -3,8 +3,7 @@
   "blockName": "Мета информация",
   "filename": "novosib-online.json",
   "path": "/regional/pensioneronline",
-  "city": "Новосибирск",
-  "order": 80
+  "city": "Новосибирск"
  },
  {
   "blockName": "Приветствие",

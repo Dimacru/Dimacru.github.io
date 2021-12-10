@@ -3,7 +3,8 @@
   "blockName": "Мета информация",
   "filename": "spb-kind-city.json",
   "path": "/regional/dobrygorod",
-  "city": "Санкт-Петербург"
+  "city": "Санкт-Петербург",
+  "order": 110
  },
  {
   "blockName": "Приветствие",
@@ -84,7 +85,7 @@
    },
    {
     "title": "Фотобаталии",
-    "description": "Конкурсы на различные темы",
+    "description": "Конкурсы на различные темы.",
     "buttonLabel": "Подробнее",
     "buttonLink": "http://starshie.online/",
     "order": 50,
@@ -96,7 +97,7 @@
   "blockName": "Расписание",
   "title": "Расписание",
   "enabled": false,
-  "stubDescription": "Актуальную информацию уточняйте по телефону: 7 (812) 718-37-94\r\nи на сайте http://starshie.online",
+  "stubDescription": "Актуальную информацию уточняйте по телефону: +7 (812) 718-37-94\r\nи <a href=\"http://starshie.online\">на сайте</a>",
   "list": []
  },
  {
@@ -104,6 +105,8 @@
   "title": "Контакты",
   "organizationName": "«Добрый город Петербург»",
   "organizationAddress": "г. Санкт-Петербург, Лиговский пр., д. 87, офис 300",
+  "mapsLink": "https://go.2gis.com/lpsw0y",
+  "phone": "+7 (812) 718-37-94",
   "siteName": "«Старшие Онлайн»",
   "siteLink": "http://starshie.online",
   "socialVk": "https://vk.com/dobrypiter",

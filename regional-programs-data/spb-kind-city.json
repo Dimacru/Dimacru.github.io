@@ -96,7 +96,7 @@
   "blockName": "Расписание",
   "title": "Расписание",
   "enabled": false,
-  "stubDescription": "Актуальную информацию уточняйте по телефону: +7 (812) 718-37-94\r\nи <a href=\"http://starshie.online\">на сайте</a>",
+  "stubDescription": "Актуальную информацию уточняйте по телефону: +7 812 718 37 94\r\nи <a href=\"http://starshie.online\">на сайте</a>",
   "list": []
  },
  {
@@ -105,7 +105,7 @@
   "organizationName": "«Добрый город Петербург»",
   "organizationAddress": "г. Санкт-Петербург, Лиговский пр., д. 87, офис 300",
   "mapsLink": "https://go.2gis.com/lpsw0y",
-  "phone": "+7 (812) 718-37-94",
+  "phone": "+7 812 718 37 94",
   "siteName": "«Старшие Онлайн»",
   "siteLink": "http://starshie.online",
   "socialVk": "https://vk.com/dobrypiter",

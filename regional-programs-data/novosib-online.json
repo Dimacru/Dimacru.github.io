@@ -52,9 +52,9 @@
     "title": "Информационный новостной сайт для пенсионеров",
     "description": "На сайте вы всегда найдете актуальную информацию для предпенсионеров и пенсионеров: нововведения государственного и регионального масштаба, вопросы экологии, скидки, информацию о наших партнерах, и многое другое.",
     "buttonLabel": "Подробнее",
-    "buttonLink": "https://pensioner54.ru",
+    "buttonLink": "https://pensioner54.ru/o-proekte/novosti",
     "order": 10,
-    "id": 91
+    "id": 90
    },
    {
     "title": "Клуб «Пенсионеры-онлайн»",
@@ -62,22 +62,22 @@
     "buttonLabel": "Подробнее",
     "buttonLink": "https://pensioner54.ru/o-proekte/klub-pensionery-onlajn",
     "order": 20,
-    "id": 92
+    "id": 91
    },
    {
-    "title": "Медиа-студия «Пенсионеры- онлайн»",
-    "description": "В этом разделе вы найдете все, что касается обучения компьютерной грамотности: анонсы онлайн-мероприятий и очных встреч, курсов, а также полезные статьи и ссылки.",
+    "title": "Медиа-студия «Пенсионеры-онлайн»",
+    "description": "В этом разделе вы найдете анонсы онлайн-мероприятий и очных встреч, курсов, а также полезные статьи и ссылки.",
     "buttonLabel": "Подробнее",
     "buttonLink": "https://pensioner54.ru/osnovnye-razdely/obuchenie/kompyuternyj-likbez/media-studiya-pensionery-onlajn",
     "order": 30,
-    "id": 93
+    "id": 92
    }
   ]
  },
  {
   "blockName": "Расписание",
   "title": "Расписание",
-  "description": "Выберите интересующие вас занятия, мероприятия по душе!",
+  "description": "Выберите интересующие вас мероприятия по душе!",
   "enabled": true,
   "list": [
    {
@@ -103,7 +103,7 @@
   "siteLink": "http://pensioner54.ru",
   "email": "pensioneri54@mail.ru",
   "socialVk": "https://vk.com/pensioner54",
-  "socialFb": "https://www.facebook.com/groups/pensioner54/?",
+  "socialFb": "https://www.facebook.com/groups/pensioner54/",
   "socialOk": "https://ok.ru/profile/249938236"
  }
 ]

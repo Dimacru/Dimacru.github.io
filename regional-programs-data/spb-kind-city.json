@@ -95,7 +95,7 @@
  {
   "blockName": "Расписание",
   "title": "Расписание",
-  "enabled": false,
+  "enabled": true,
   "stubDescription": "Актуальную информацию уточняйте по телефону: +7 812 718 37 94\r\nи <a href=\"http://starshie.online\">на сайте</a>",
   "list": [
    {

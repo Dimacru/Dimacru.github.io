@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "СберКарта «Мир»",
-    "description": "Карта подходит для получения пенсии: 3,5% годовых на остаток и повышенные бонусы СберСпасибо",
+    "description": "Карта подходит для получения пенсии: 3,5% годовых на остаток и повышенные бонусы «СберСпасибо»",
     "logo": "/static/images/offers/icon/sber.svg",
     "directionTitle": "Финансы",
     "illustration": "/static/images/offers/illustrations/sbercard.svg",
@@ -161,7 +161,7 @@
   },
   {
     "id": 9,
-    "title": "СберСпасибо",
+    "title": "«СберСпасибо»",
     "description": "Получайте <a href='https://spasibosberbank.ru/partners_proposal/privilegii-po-sotsialnoy-karte'>повышенные бонусы</a> в категориях «Супермаркеты», «Аптеки», «Товары для дома» и др",
     "logo": "/static/images/offers/icon/spasibo.svg",
     "directionTitle": "Покупки",

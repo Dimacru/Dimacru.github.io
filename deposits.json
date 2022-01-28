@@ -19,5 +19,93 @@
       "amountFromUSD": ""
     }
   ],
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "title": "Особые условия для пенсионеров",
+  "subtitle": "Условия доступны для женщин от 55 лет и мужчин от 60 лет.",
+  "blocks": [
+    {
+      "blockTitle": "Вклад СОХРАНЯЙ и СОХРАНЯЙ ОнЛ@йн",
+      "fields": [
+        {
+          "icon": "percentage",
+          "title": "Максимальные ставки:",
+          "subtitle": "До 3,50% в рублях — в СберБанк Онлайн",
+          "info": "До 3,35% в рублях — в отделении Банка"
+        },
+        {
+          "icon": "calendar",
+          "title": "Срок вклада",
+          "subtitle": "от 1 месяца",
+          "info": "До 3-х лет"
+        },
+        {
+          "icon": "wallet",
+          "title": "Сумма вклада",
+          "subtitle": "От 1 000 рублей",
+          "info": ""
+        }
+      ],
+      "special": [
+        {
+          "icon": "no money withdrawal",
+          "text": "без частичного снятия"
+        },
+        {
+          "icon": "no money replenishment",
+          "text": "без пополнения"
+        }
+      ]
+    },
+    {
+      "blockTitle": "Вклад «СберВклад»",
+      "fields": [
+        {
+          "icon": "percentage",
+          "title": "Максимальные ставки:",
+          "subtitle": "До 7,01% годовых в рублях *",
+          "info": ""
+        },
+        {
+          "icon": "calendar",
+          "title": "Срок вклада",
+          "subtitle": "От 1 месяца",
+          "info": "До 1 года"
+        },
+        {
+          "icon": "wallet",
+          "title": "Сумма вклада",
+          "subtitle": "От 100 тыс. руб.",
+          "info": ""
+        }
+      ],
+      "special": [
+        {
+          "icon": "no money withdrawal",
+          "text": "без частичного снятия"
+        },
+        {
+          "icon": "can be money replenishment",
+          "text": "возможность пополнения"
+        }
+      ]
+    }
+  ],
+  "bottomBlocks": [
+    false,
+    {
+      "text": "Открыть вклад онлайн — просто, как это сделать в мобильном приложении <a href=\"/study/sbol#guide7\">смотрите тут</a>",
+      "button": "<a href=\"https://sberbank.ru/sms/vkdlsite/\" target=\"_blank\" rel=\"noopener nofollow\" data-ga-action=\"Click on online offices button\">Оформить онлайн</a>"
+    }
+  ],
   "disclaimer": "* Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке последние 3 месяца"
 }

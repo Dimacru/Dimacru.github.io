@@ -101,11 +101,11 @@
     }
   ],
   "bottomBlocks": [
-    false,
     {
       "text": "Открыть вклад онлайн — просто, как это сделать в мобильном приложении <a href=\"/study/sbol#guide7\">смотрите тут</a>",
       "button": "<a href=\"https://sberbank.ru/sms/vkdlsite/\" target=\"_blank\" rel=\"noopener nofollow\" data-ga-action=\"Click on online offices button\">Оформить онлайн</a>"
-    }
+    },
+    false
   ],
   "disclaimer": "* Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке последние 3 месяца"
 }

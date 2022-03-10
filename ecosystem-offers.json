@@ -22,8 +22,8 @@
   },
   {
     "id": 2,
-    "title": "Пониженная ставка по кредиту",
-    "description": "-1% по потребительским кредитам для получателей пенсии",
+    "title": "Выгодная ставка по кредиту",
+    "description": "Кредит на любые цели для получателей пенсии",
     "logo": "/static/images/offers/icon/sber.svg",
     "directionTitle": "Финансы",
     "directionAnchor": "finance",

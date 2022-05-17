@@ -370,7 +370,7 @@
             "link": "https://form.typeform.com/to/bFfGAvyK",
             "image": "/static/images/digital-school/test3.jpg",
             "course": 3,
-            "isDisabled": "выключено"
+            "isDisabled": ""
         },
         {
             "id": 26,

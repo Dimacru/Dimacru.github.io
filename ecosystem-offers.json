@@ -300,7 +300,7 @@
     "buttonLabel": "Оформить подписку",
     "secondaryButtonLink": "",
     "secondaryButtonLabel": "",
-    "firstPensionPageOrder": null,
+    "firstPensionPageOrder": 50,
     "order": 150,
     "articleUrl": "https://sberbankaktivno.ru/journal/article/2342?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
     "articleImg": "https://sberbankaktivno.ru/media/article-images/coverX/21aabf564ccd6be42aeb93d3fe3a9d85.jpeg",

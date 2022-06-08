@@ -3,13 +3,13 @@
   "subtitle": "Условия доступны для женщин от 55 лет и мужчин от 60 лет.",
   "blocks": [
     {
-      "blockTitle": "Валютный Сохраняй",
+      "blockTitle": "Вклад Промо Управляй",
       "fields": [
         {
           "icon": "percentage",
           "title": "Максимальные ставки:",
-          "subtitle": "До 1% в долларах США",
-          "info": "До 1% в Евро"
+          "subtitle": "До 7% в рублях",
+          "info": ""
         },
         {
           "icon": "calendar",
@@ -20,18 +20,18 @@
         {
           "icon": "wallet",
           "title": "Сумма вклада",
-          "subtitle": "От 1 000 долларов США",
-          "info": "От 1 000 Евро"
+          "subtitle": "От 30 000 рублях",
+          "info": ""
         }
       ],
       "special": [
         {
           "icon": "no money withdrawal",
-          "text": "без частичного снятия"
+          "text": "можно снимать"
         },
         {
-          "icon": "no money replenishment",
-          "text": "без пополнения"
+          "icon": "can be money replenishment",
+          "text": "можно пополнять"
         }
       ]
     },

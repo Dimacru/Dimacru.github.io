@@ -27,11 +27,17 @@
       "special": [
         {
           "icon": "no money withdrawal",
-          "text": "можно снимать"
+          "text": "можно снимать",
+          "svgIcon": "",
+          "tooltipLabel": "",
+          "tooltipBody": ""
         },
         {
           "icon": "no money replenishment",
-          "text": "можно пополнять"
+          "text": "можно пополнять",
+          "svgIcon": "",
+          "tooltipLabel": "",
+          "tooltipBody": ""
         }
       ]
     },
@@ -60,7 +66,10 @@
       "special": [
         {
           "icon": "no money withdrawal",
-          "text": "без частичного снятия"
+          "text": "без частичного снятия",
+          "svgIcon": "",
+          "tooltipLabel": "",
+          "tooltipBody": ""
         },
         {
           "icon": "can be money replenishment",
@@ -68,7 +77,6 @@
           "svgIcon": "",
           "tooltipLabel": "+ автоплатёж",
           "tooltipBody": "Попросите консультанта в отделении подключить вам платеж. Это всегда вовремя оплаченные ЖКХ, налоги и другие услуги. При оплате — комиссии ниже, чем в отделении банка."
-
         }
       ]
     }

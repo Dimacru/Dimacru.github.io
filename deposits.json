@@ -26,7 +26,7 @@
       ],
       "special": [
         {
-          "icon": "no money withdrawal",
+          "icon": "can be money withdrawal",
           "text": "можно снимать",
           "svgIcon": "",
           "tooltipLabel": "",

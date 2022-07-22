@@ -1,9 +1,9 @@
 {
-  "mostRead": [2979, 2942, 2981],
+  "mostRead": [2979, 2991, 2990],
   "promoBox": {
-    "title": "Канал «Активный возраст»",
-    "description": "Читайте наши новости и полезные советы в СберБанк Онлайн",
-    "buttonText": "Читать",
-    "buttonLink": "https://www.sberbank.ru/ru/person/dl/jc?channel=activeage"
+    "title": "Бесплатный прямой эфир с юристом «Защита прав потребителей»",
+    "description": "Подключайтесь 28 июля в 17:00 (мск) в Zoom",
+    "buttonText": "Присоединиться",
+    "buttonLink": "https://us05web.zoom.us/j/89225383758?pwd=RG5IL0RPOTR3U1BYc1AwZEk2V3JQdz09"
   }
 }

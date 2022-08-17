@@ -1,0 +1,138 @@
+{
+	"deposits": {
+		"items": [
+			{
+				"name": "Вклад «СберВклад Прайм»",
+				"fields": [
+					{
+						"type": "text",
+						"tip": "Максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в СберБанк Онлайн, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку СберПрайм+.",
+						"tipPosition": "bottom",
+						"content": "до <b>7%</b> в рублях"
+					},
+					{
+						"type": "text",
+						"content": "до <b>5,75%</b> в рублях"
+					},
+					{
+						"type": "text",
+						"content": "от <b>1 месяца</b> до <b>1 года</b>"
+					},
+					{
+						"type": "line"
+					},
+					{
+						"type": "heading",
+						"content": "Особые условия:"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-width='2.2' d='m11 29 18-18m-18 0 18 18'/%3E%3C/svg%3E",
+						"text": "Без снятия"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
+						"tip": "Попросите консультанта в отделении подключить вам платеж. Это всегда вовремя оплаченные ЖКХ, налоги и другие услуги. При оплате — комиссии ниже, чем в отделении банка.",
+						"tipPosition": "bottom",
+						"text": "Пополнение + автоплатёж"
+					},
+					{
+						"type": "line"
+					},
+					{
+						"type": "heading",
+						"content": "Как открыть вклад:"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath fill='%2321BA72' fill-rule='evenodd' d='M27 34H13a3 3 0 0 1-3-3V9a3 3 0 0 1 3-3h14a3 3 0 0 1 3 3v22a3 3 0 0 1-3 3zm0-2 1-1V9l-1-1h-3l-2 1h-4l-2-1h-3l-1 1v22l1 1m6-2h2a1 1 0 1 0 0-2h-2a1 1 0 1 0 0 2z' clip-rule='evenodd'/%3E%3C/svg%3E",
+						"text": "Онлайн"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-width='2.2' d='M24 16a4 4 0 1 1-8 0 4 4 0 0 1 8 0zm-4 19s12-12 12-19S25 4 20 4 8 9 8 16s12 19 12 19Z'/%3E%3C/svg%3E",
+						"text": "В офисе банка"
+					}
+				],
+				"buttons": [
+					{
+						"link": "lololo",
+						"text": "lalala",
+						"type": "primary"
+					},
+					{
+						"link": "lololo",
+						"text": "lalala",
+						"type": "secondary"
+					}
+				]
+			},
+			{
+				"name": "Управляй+",
+				"fields": [
+					{
+						"type": "text",
+						"tip": "Максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в СберБанк Онлайн, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку СберПрайм+.",
+						"tipPosition": "bottom",
+						"content": "до <b>5%</b> в рублях"
+					},
+					{
+						"type": "text",
+						"content": "до <b>3,75%</b> в рублях"
+					},
+					{
+						"type": "text",
+						"content": "от <b>1 месяца</b> до <b>1 года</b>"
+					},
+					{
+						"type": "line"
+					},
+					{
+						"type": "heading",
+						"content": "Особые условия:"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
+						"text": "Снятие"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
+						"text": "Пополнение"
+					},
+					{
+						"type": "line"
+					},
+					{
+						"type": "heading",
+						"content": "Как открыть вклад:"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath fill='%2321BA72' fill-rule='evenodd' d='M27 34H13a3 3 0 0 1-3-3V9a3 3 0 0 1 3-3h14a3 3 0 0 1 3 3v22a3 3 0 0 1-3 3zm0-2 1-1V9l-1-1h-3l-2 1h-4l-2-1h-3l-1 1v22l1 1m6-2h2a1 1 0 1 0 0-2h-2a1 1 0 1 0 0 2z' clip-rule='evenodd'/%3E%3C/svg%3E",
+						"text": "Онлайн"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-width='2.2' d='M24 16a4 4 0 1 1-8 0 4 4 0 0 1 8 0zm-4 19s12-12 12-19S25 4 20 4 8 9 8 16s12 19 12 19Z'/%3E%3C/svg%3E",
+						"text": "В офисе банка"
+					}
+				],
+				"buttons": [
+					{
+						"link": "lololo",
+						"text": "lalala",
+						"type": "primary"
+					},
+					{
+						"link": "lololo",
+						"text": "lalala",
+						"type": "secondary"
+					}
+				]
+			}
+		]
+	}
+}

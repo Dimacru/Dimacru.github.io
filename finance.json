@@ -57,13 +57,13 @@
 				],
 				"buttons": [
 					{
-						"link": "lololo",
-						"text": "lalala",
+						"link": "https://sberbank.ru/sms/vkdlsite/",
+						"text": "Открыть онлайн",
 						"type": "primary"
 					},
 					{
-						"link": "lololo",
-						"text": "lalala",
+						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
+						"text": "Открыть в офисе",
 						"type": "secondary"
 					}
 				]
@@ -122,16 +122,17 @@
 				],
 				"buttons": [
 					{
-						"link": "lololo",
-						"text": "lalala",
+						"link": "https://sberbank.ru/sms/vkdlsite/",
+						"text": "Открыть онлайн",
 						"type": "primary"
 					},
 					{
-						"link": "lololo",
-						"text": "lalala",
+						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
+						"text": "Открыть в офисе",
 						"type": "secondary"
 					}
 				]
+
 			}
 		]
 	}

@@ -124,7 +124,7 @@
 					{
 						"link": "https://sberbank.ru/sms/vkdlsite/",
 						"text": "Открыть онлайн",
-						"buttonStyle": "prima ry"
+						"buttonStyle": "primary"
 					},
 					{
 						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",

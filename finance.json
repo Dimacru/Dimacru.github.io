@@ -59,12 +59,12 @@
 					{
 						"link": "https://sberbank.ru/sms/vkdlsite/",
 						"text": "Открыть онлайн",
-						"type": "primary"
+						"buttonStyle": "primary"
 					},
 					{
 						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
 						"text": "Открыть в офисе",
-						"type": "secondary"
+						"buttonStyle": "secondary"
 					}
 				]
 			},
@@ -124,12 +124,12 @@
 					{
 						"link": "https://sberbank.ru/sms/vkdlsite/",
 						"text": "Открыть онлайн",
-						"type": "primary"
+						"buttonStyle": "primary"
 					},
 					{
 						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
 						"text": "Открыть в офисе",
-						"type": "secondary"
+						"buttonStyle": "secondary"
 					}
 				]
 

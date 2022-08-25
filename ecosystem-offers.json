@@ -21,7 +21,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "green",
-    "status": "Черновик"
+    "status": "Опубликован"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Черновик"
+    "status": "Опубликован"
   },
   {
     "id": 2.1,
@@ -69,7 +69,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Черновик"
+    "status": "Опубликован"
   },
   {
     "id": 3,
@@ -93,7 +93,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Черновик"
+    "status": "Опубликован"
   },
   {
     "id": 6,
@@ -405,6 +405,6 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Черновик"
+    "status": "Опубликован"
   }
 ]

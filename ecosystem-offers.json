@@ -21,7 +21,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "green",
-    "status": "Опубликован"
+    "status": "Черновик"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Опубликован"
+    "status": "Черновик"
   },
   {
     "id": 2.1,
@@ -69,7 +69,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Опубликован"
+    "status": "Черновик"
   },
   {
     "id": 3,
@@ -93,7 +93,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Опубликован"
+    "status": "Черновик"
   },
   {
     "id": 6,
@@ -292,9 +292,9 @@
     "title": "СберМобайл",
     "description": "SIM-карта без скрытых платежей и на неё можно перейти со своим номером. <b>Скидка 25%</b> на тариф «Стартовый» на 6 месяцев по промокоду <b>ZABOTA25</b>",
     "logo": "/static/images/offers/icon/sbermobile.svg",
-    "directionTitle": "Связь",
-    "directionAnchor": "connection",
-    "illustration": "/static/images/offers/illustrations/mobile.svg",
+    "directionTitle": "Услуги",
+    "directionAnchor": "services",
+    "illustration": "",
     "note": "Скидка 25% на 6 месяцев на тариф «Стартовый». Скидка на абонентскую плату по тарифу предоставляется в рамках акции «<a href='https://sbermobile.ru/about/actions/skidka-po-promo-kodu-dlya-novyh-abonentov-sbermobile.html'>Скидка по промо-коду для новых абонентов</a>».",
     "buttonLink": "https://sbermobile.ru/tariffs/?promocode=ZABOTA25&utm_source=sberbankaktivno&utm_medium=banner&utm_campaign=ZABOTA25",
     "buttonLabel": "Заказать со скидкой",
@@ -306,8 +306,32 @@
     "articleImg": "",
     "articleDate": "",
     "articleName": "",
-    "sizeOffer": "",
+    "sizeOffer": "small",
     "promocode": "ZABOTA25",
+    "style": "",
+    "status": "Опубликован"
+  },
+  {
+    "id": 14.1,
+    "title": "СберПраво",
+    "description": "Юридические онлайн-консультации со скидкой 20% для пенсионеров на все услуги с фиксированной ценой",
+    "logo": "/static/images/offers/icon/sber.svg",
+    "directionTitle": "Услуги",
+    "directionAnchor": "services",
+    "illustration": "",
+    "note": "ООО «СБЕР ЛИГАЛ». ОГРН 1187746905004, ИНН 9705124940, Адрес: 121170, г. Москва, ул. Поклонная, д. 3, офис 209, этаж 2. <a href='https://sberpravo.ru/'>Подробнее</a>.",
+    "buttonLink": "https://sberpravo.ru/",
+    "buttonLabel": "Получить услугу",
+    "secondaryButtonLink": "",
+    "secondaryButtonLabel": "",
+    "firstPensionPageOrder": null,
+    "order": 135,
+    "articleUrl": "",
+    "articleImg": "",
+    "articleDate": "",
+    "articleName": "",
+    "sizeOffer": "small",
+    "promocode": "AKTIVNO",
     "style": "",
     "status": "Опубликован"
   },
@@ -381,6 +405,6 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
-    "status": "Опубликован"
+    "status": "Черновик"
   }
 ]

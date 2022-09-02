@@ -159,13 +159,13 @@
 					},
 					{
 						"type": "iconText",
-						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
-						"text": "Снятие"
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-width='2.2' d='m11 29 18-18m-18 0 18 18'/%3E%3C/svg%3E",
+						"text": "Без снятия"
 					},
 					{
 						"type": "iconText",
-						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
-						"text": "Пополнение"
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-width='2.2' d='m11 29 18-18m-18 0 18 18'/%3E%3C/svg%3E",
+						"text": "Без пополнения"
 					},
 					{
 						"type": "line"

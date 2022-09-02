@@ -132,6 +132,71 @@
 						"buttonStyle": "secondary"
 					}
 				]
+			},
+			{
+				"name": "Вклад «Лучший %»",
+				"fields": [
+					{
+						"type": "text",
+						"tip": "Ставка будет начислена на деньги, которых не было на ваших вкладах в СберБанке в последние 3 месяца.<br>Дополнительно - будут начисляться 7,5% бонусами от СберСпасибо на СберМегаМаркете и в ЕАПТЕКЕ, 5% бонусами — на Ozon и Wildberries",
+						"tipPosition": "bottom",
+						"content": "до <b>7,5%</b> в рублях"
+					},
+					{
+						"type": "text",
+						"content": "от <b>100 000 ₽</b>"
+					},
+					{
+						"type": "text",
+						"content": "<b>5 месяцев</b>"
+					},
+					{
+						"type": "line"
+					},
+					{
+						"type": "heading",
+						"text": "Особые условия:"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
+						"text": "Снятие"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='M31 14 17 28l-8-8'/%3E%3C/svg%3E",
+						"text": "Пополнение"
+					},
+					{
+						"type": "line"
+					},
+					{
+						"type": "heading",
+						"text": "Как открыть вклад:"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg fill='none' height='40' width='40' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath clip-rule='evenodd' d='M26.67 34.44H13.33A3.33 3.33 0 0 1 10 31.11V8.9c0-1.84 1.5-3.33 3.33-3.33h13.34C28.5 5.56 30 7.05 30 8.89V31.1c0 1.84-1.5 3.33-3.33 3.33zm0-2.22c.61 0 1.1-.5 1.1-1.1V8.88c0-.61-.49-1.11-1.1-1.11h-2.78c0 .92-.74 1.66-1.66 1.66h-4.45c-.92 0-1.67-.74-1.67-1.66h-2.78c-.61 0-1.1.5-1.1 1.1v22.23c0 .61.49 1.11 1.1 1.11M18.9 30h2.22a1.11 1.11 0 1 0 0-2.22H18.9a1.11 1.11 0 1 0 0 2.22z' fill='%2321ba72' fill-rule='evenodd'/%3E%3C/svg%3E",
+						"text": "Онлайн"
+					},
+					{
+						"type": "iconText",
+						"icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 40 40'%3E%3Cpath stroke='%2321ba72' stroke-width='2.2' d='M24 16a4 4 0 1 1-8 0 4 4 0 0 1 8 0zm-4 19s12-12 12-19S25 4 20 4 8 9 8 16s12 19 12 19Z'/%3E%3C/svg%3E",
+						"text": "В офисе банка"
+					}
+				],
+				"buttons": [
+					{
+						"link": "https://sberbank.ru/sms/vkdlsite/",
+						"text": "Открыть онлайн",
+						"buttonStyle": "primary"
+					},
+					{
+						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
+						"text": "Открыть в офисе",
+						"buttonStyle": "secondary"
+					}
+				]
 			}
 		]
 	}

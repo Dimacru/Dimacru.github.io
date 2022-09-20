@@ -8,15 +8,15 @@
 						"type": "text",
 						"tip": "Максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в СберБанк Онлайн, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку СберПрайм+.",
 						"tipPosition": "bottom",
-						"content": "до <b>7%</b> в СберБанк Онлайн"
+						"content": "до <b>7,2%</b> в СберБанк Онлайн"
 					},
 					{
 						"type": "text",
-						"content": "до <b>5,75%</b> в офисе банка"
+						"content": "до <b>5,95%</b> в офисе банка"
 					},
 					{
 						"type": "text",
-						"content": "от <b>1 месяца</b> до <b>1 года</b>"
+						"content": "от <b>1 месяца</b> до <b>3 лет</b>"
 					},
 					{
 						"type": "line"
@@ -57,7 +57,7 @@
 				],
 				"buttons": [
 					{
-						"link": "https://sberbank.ru/sms/vkdlsite/",
+						"link": "http://sberbank.ru/sms/vkdlsite/",
 						"text": "Открыть онлайн",
 						"buttonStyle": "primary"
 					},
@@ -75,11 +75,11 @@
 						"type": "text",
 						"tip": "Максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в СберБанк Онлайн, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку СберПрайм+.",
 						"tipPosition": "bottom",
-						"content": "до <b>5%</b> в СберБанк Онлайн"
+						"content": "до <b>4,75%</b> в СберБанк Онлайн"
 					},
 					{
 						"type": "text",
-						"content": "до <b>3,75%</b> в офисе банка"
+						"content": "до <b>3,5%</b> в офисе банка"
 					},
 					{
 						"type": "text",
@@ -122,7 +122,7 @@
 				],
 				"buttons": [
 					{
-						"link": "https://sberbank.ru/sms/vkdlsite/",
+						"link": "http://sberbank.ru/sms/vkdlsite/",
 						"text": "Открыть онлайн",
 						"buttonStyle": "primary"
 					},
@@ -187,7 +187,7 @@
 				],
 				"buttons": [
 					{
-						"link": "https://sberbank.ru/sms/vkdlsite/",
+						"link": "http://sberbank.ru/sms/vkdlsite/",
 						"text": "Открыть онлайн",
 						"buttonStyle": "primary"
 					},

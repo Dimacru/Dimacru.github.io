@@ -62,7 +62,7 @@
 						"buttonStyle": "primary"
 					},
 					{
-						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
+						"link": "http://www.sberbank.ru/ru/oib?tab=vsp",
 						"text": "Открыть в офисе",
 						"buttonStyle": "secondary"
 					}
@@ -127,7 +127,7 @@
 						"buttonStyle": "primary"
 					},
 					{
-						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
+						"link": "http://www.sberbank.ru/ru/oib?tab=vsp",
 						"text": "Открыть в офисе",
 						"buttonStyle": "secondary"
 					}
@@ -192,7 +192,7 @@
 						"buttonStyle": "primary"
 					},
 					{
-						"link": "https://www.sberbank.ru/ru/oib?tab=vsp",
+						"link": "http://www.sberbank.ru/ru/oib?tab=vsp",
 						"text": "Открыть в офисе",
 						"buttonStyle": "secondary"
 					}

@@ -21,6 +21,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "green",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -45,6 +46,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -69,6 +71,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -93,6 +96,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -117,6 +121,7 @@
     "sizeOffer": "",
     "promocode": "NEW10",
     "style": "",
+    "marking": "Реклама. ООО «Инстамарт Сервис»",
     "status": "Опубликован"
   },
   {
@@ -141,6 +146,7 @@
     "sizeOffer": "",
     "promocode": "200EMAIL",
     "style": "",
+    "marking": "Реклама. ООО «Умный ритейл»",
     "status": "Опубликован"
   },
   {
@@ -165,6 +171,7 @@
     "sizeOffer": "",
     "promocode": "sberactive",
     "style": "",
+    "marking": "Реклама. ООО «Маркетплейс»",
     "status": "Опубликован"
   },
   {
@@ -189,6 +196,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "green",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -213,6 +221,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "",
+    "marking": "Реклама. ООО «Сбер Услуги»",
     "status": "Опубликован"
   },
   {
@@ -237,12 +246,13 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "",
+    "marking": "Реклама. ООО «РДВ-софт»",
     "status": "Опубликован"
   },
   {
     "id": 12,
     "title": "ОККО",
-    "description": "Онлайн-кинотеатр с коллекцией более 90 000 фильмов в хорошем качестве без рекламы. Смотрите месяц за 1 ₽, затем 12 месяцев по 199 ₽ / месяц.  \nКаждый следующий месяц по 399 ₽",
+    "description": "Онлайн-кинотеатр с коллекцией более 90 000 фильмов в хорошем качестве без рекламы. Смотрите месяц за 1 ₽, затем 12 месяцев по 199 ₽ / месяц.\nКаждый следующий месяц по 399 ₽",
     "logo": "/static/images/offers/icon/okko.svg",
     "directionTitle": "Развлечения",
     "directionAnchor": "entertainment",
@@ -261,6 +271,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "",
+    "marking": "Реклама. ООО «Окко»",
     "status": "Опубликован"
   },
   {
@@ -285,6 +296,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "",
+    "marking": "Реклама. ООО «Звук»",
     "status": "Опубликован"
   },
   {
@@ -309,6 +321,7 @@
     "sizeOffer": "small",
     "promocode": "ZABOTA25",
     "style": "",
+    "marking": "Реклама. ООО «Сбербанк Телеком»",
     "status": "Опубликован"
   },
   {
@@ -333,6 +346,7 @@
     "sizeOffer": "small",
     "promocode": "AKTIVNO",
     "style": "",
+    "marking": "Реклама. ООО «СБЕР ЛИГАЛ»",
     "status": "Опубликован"
   },
   {
@@ -357,6 +371,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -381,6 +396,7 @@
     "sizeOffer": "",
     "promocode": "",
     "style": "",
+    "marking": "",
     "status": "Опубликован"
   },
   {
@@ -405,6 +421,7 @@
     "sizeOffer": "small",
     "promocode": "",
     "style": "",
+    "marking": "",
     "status": "Опубликован"
   }
 ]

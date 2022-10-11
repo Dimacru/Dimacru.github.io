@@ -1,0 +1,4 @@
+{
+	"description": "lalala <%= myVariable %> lalala",
+	"note": "привет у меня для тебя переменная со значением '<%= myVariable %>'. Ну шо, как тебе такое?"
+}

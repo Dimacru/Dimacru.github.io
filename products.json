@@ -1,0 +1,542 @@
+{
+  "variables": {
+    "a": "b"
+  },
+  "common": [
+    {
+      "id": "СберКарта «Мир»",
+      "name": "СберКарта «Мир»",
+      "description": "Карта подходит для получения пенсии: 3,5% годовых на остаток и повышенные бонусы «СберСпасибо»",
+      "offer": "Карта подходит для получения пенсии: 3,5% годовых на остаток и повышенные бонусы «СберСпасибо»",
+      "descType": "short",
+      "disclaimer": "СберКарта. С подробными условиями и тарифами вы можете ознакомиться на сайте <a href='http://www.sberbank.ru/ru/person/bank_cards/debit/sberkarta'>sberbank.ru</a>",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Заказать карту",
+      "primaryButtonLink": "https://www.sberbank.com/ru/persons/bank_cards/debit/order?utm_source=sberbankaktivno&utm_medium=free&utm_campaign=sbercard_pens#order"
+    },
+    {
+      "id": "Счёт «Активный возраст»",
+      "name": "Счёт «Активный возраст»",
+      "description": "Максимальная доходность 6,8% для получателей пенсии в СберБанке. Можно пополнять и снимать без ограничений.",
+      "offer": "Максимальная доходность 6,8% для получателей пенсии в СберБанке. Можно пополнять и снимать без ограничений.",
+      "descType": "short",
+      "disclaimer": "Начать копить можно с 0 ₽, минимальный остаток для начисления процентов - 1000 ₽. Под пенсией подразумеваются средства, выплачиваемые пенсионным органом, то есть Пенсионным фондом РФ или другими пенсионными органами, определёнными Федеральным законом от 12.02.1993 № 4468-1 «О пенсионном обеспечении лиц, проходивших военную службу, службу в органах внутренних дел, Государственной противопожарной службе, органах по контролю за оборотом наркотических средств и психотропных веществ, учреждениях и органах уголовно-исполнительной системы, войсках национальной гвардии Российской Федерации, органах принудительного исполнения Российской Федерации, и их семей». <a href='http://www.sberbank.ru/ru/person/contributions/deposits/av' target='_blank' rel='nofollow noopener'>Подробнее</a>",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Открыть счёт",
+      "primaryButtonLink": "http://www.sberbank.ru/sms/dpe-website",
+      "secondaryButtonText": "Подробнее",
+      "secondaryButtonLink": "http://www.sberbank.ru/ru/person/contributions/deposits/av?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "Потребительский кредит",
+      "name": "Потребительский кредит",
+      "description": "Льгота до 2% для получателей пенсии в СберБанке по кредиту на любые цели, сумма кредита от 30 тыс. руб. Срок рассмотрения заявки от 2-х минут.",
+      "offer": "Льгота до 2% для получателей пенсии в СберБанке по кредиту на любые цели, сумма кредита от 30 тыс. руб. Срок рассмотрения заявки от 2-х минут.",
+      "descType": "short",
+      "disclaimer": "Срок рассмотрения кредитной заявки: от 2-х минут и не более 2-х дней с момента предоставления заёмщиком в банк полного пакета документов. При подаче заявки на кредит Сбербанка «Потребительский кредит без обеспечения» (далее — Кредит) действуют следующие процентные ставки (срок от 3 до 12 месяцев): для заемщиков, получающих заработную плату/пенсию на счет вклада/карты в ПАО Сбербанк на сумму от 30000 руб. до 300000 руб. — от 15,9% до 23,9% годовых, на сумму от 300000 руб. до 1 млн. руб. — от 13,5% до 17,9% годовых, на сумму от 1 млн. руб. до 8 млн. руб. — от 12,9% до 16,9% годовых; для иных категорий заемщиков на сумму Кредита от 30000 руб. до 300000 руб. — от 17,9% до 23,9% годовых, на сумму от 300000 руб. до 1 млн. руб. — от 14,5% до 17,9% годовых, на сумму Кредита от 1 млн. руб. до 8 млн. — от 13,9% до 17,5% годовых. При подаче заявки на кредит Сбербанка «Потребительский кредит без обеспечения» (далее — Кредит) действуют следующие процентные ставки (срок от 13 до 60 месяцев): для заемщиков, получающих заработную плату/пенсию на счет вклада/карты в ПАО Сбербанк на сумму от 30000 руб. до 300000 руб. — от 15,9% до 25,8% годовых, на сумму от 300000 руб. до 1 млн. руб. — от 13,5% до 21,1% годовых, на сумму от 1 млн. руб. до 8 млн. руб. — от 12,9% до 19,9% годовых; для иных категорий заемщиков на сумму Кредита от 30000 руб. до 300000 руб. — от 17,9% до 25,8% годовых, на сумму от 300000 руб. до 1 млн. руб. — от 14,5% до 21,1% годовых, на сумму Кредита от 1 млн. руб. до 8 млн. — от 13,5% до 20,9% годовых. Банк вправе отказать в выдаче Кредита. Итоговая сумма Кредита для заемщика определяется Банком индивидуально. Банк вправе отказать в выдаче Кредита. Мобильное приложение «Сбербанк Онлайн» (0+) доступно держателям банковских карт Сбербанка (за исключением корпоративных карт), подключенных к СМС-сервису «Мобильный банк». Перенести платеж по кредиту возможно после внесения платежей без просрочек в течение 6 месяцев. Подробнее об условиях Кредита, мобильном приложении, услуге «Перенос платежа», имеющихся ограничениях на www.sberbank.ru. ПАО Сбербанк. Генеральная лицензия Банка России на осуществление банковских операций № 1481 от 11.08.2015 г.",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Оформить онлайн",
+      "primaryButtonLink": "http://www.sberbank.ru/ru/person/credits/money/consumer_unsecured/zayavka?block=true",
+      "secondaryButtonText": "Подробнее",
+      "secondaryButtonLink": "https://sberbankaktivno.ru/finance/credit"
+    },
+    {
+      "id": "СберВклад",
+      "name": "СберВклад",
+      "description": "С учётом капитализации процентов доходность до 7,2% годовых",
+      "offer": "С учётом капитализации процентов доходность до 7,2% годовых",
+      "descType": "short",
+      "disclaimer": "Узнать подробнее о «<a href='http://www.sberbank.ru/ru/person/contributions/deposits/sbervklad' target='_blank' rel='nofollow noopener'>СберВкладе</a>»\r\nДоходность — это расчётная величина, учитывающая ежемесячное увеличение суммы вклада на величину причисленных процентов. Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке за последние 3 месяца. 7,2% — максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в <a href='http://www.sberbank.ru/sms/dp-website' target='_blank' rel='nofollow noopener'>СберБанк Онлайн</a>, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку <a href='https://sberprime.sber.ru/plus' target='_blank' rel='nofollow noopener'>СберПрайм+</a>",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Открыть вклад",
+      "primaryButtonLink": "http://sberbank.ru/sms/vkdlsite",
+      "secondaryButtonText": "Подробнее",
+      "secondaryButtonLink": "http://www.sberbank.ru/ru/person/contributions/deposits/sbervklad_a?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберМаркет",
+      "name": "СберМаркет",
+      "description": "Заказывайте продукты из любимого магазина не выходя из дома",
+      "offer": "Заказывайте продукты из любимого магазина не выходя из дома. Скидка <b>15%</b> на первый заказ по промокоду <b>NEW10</b>",
+      "descType": "short",
+      "disclaimer": "«СберМаркет», ООО «ИНСТАМАРТ СЕРВИС», ОГРН 1187746494980, юридический адрес: 119072, г. Москва, Берсеневская наб., д. 6, стр. 3, эт. 5, пом. I, комн. 1, <a href='https://sbermarket.ru/rules-sbermarket'>Подробнее</a>. Скидка 15% на первый заказ по промокоду NEW10. Скидка не более 600 рублей на все кроме акционных товаров. Срок проведения акции до 31.12.2022 (включительно). <a href='https://sbermarket.ru/rules/new'>Подробнее</a>.",
+      "logo": "/static/images/offers/icon/sbermarket.svg",
+      "primaryButtonText": "Сделать заказ",
+      "primaryButtonLink": "https://sbermarket.ru/rules/new",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Инстамарт Сервис»",
+      "advertisionLabelLink": "https://sbermarket.ru/"
+    },
+    {
+      "id": "Самокат",
+      "name": "Самокат",
+      "description": "Заказывайте продукты с бесплатной доставкой за 15 минут",
+      "offer": "Заказывайте продукты с бесплатной доставкой за 15 минут. Скидка <b>200 ₽</b> на первый заказ от 800 ₽, промокод 200EMAIL",
+      "descType": "short",
+      "disclaimer": "Скидка 200 рублей действует при заказе от 800 рублей. Скидка действует только на первый заказ. Зона, время, товары и предложения доставки ограничены. Организатор — продавец ООО «Умный ритейл», ОГРН 1177847261602, 192019, Санкт‑Петербург, улица Седова, 11, литер А, офис 627. Информационные услуги оказываются ООО «Умное пространство», ОГРН 1137847232852, 192019, Санкт-Петербург, улица Седова, 11 литер А",
+      "logo": "/static/images/offers/icon/samokat.svg",
+      "primaryButtonText": "Сделать заказ",
+      "primaryButtonLink": "https://vml8.adj.st/main?adj_t=tjzxb4h&adj_redirect_macos=https%3A%2F%2Fsamokat.ru%2F&adj_redirect_windows=https%3A%2F%2Fsamokat.ru%2F",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Умный ритейл»",
+      "advertisionLabelLink": "https://samokat.ru/"
+    },
+    {
+      "id": "СберМегаМаркет",
+      "name": "СберМегаМаркет",
+      "description": "Удобный шопинг: миллионы товаров, тысячи проверенных продавцов",
+      "offer": "Заказывайте товары из любимого магазина не выходя из дома. Скидка <b>500 ₽</b> на первый заказ от 2 500 ₽ по промокоду <b>sberactive</b>",
+      "descType": "short",
+      "disclaimer": "ООО «Маркетплейс». <a href='https://sbermegamarket.ru/docs/loyalty_program_rules/'>Правила программы лояльности</a>.\r\nПромокод распространяется на все товары, за исключением брендов Apple, Dyson, Rieker. Им можно воспользоваться до 31 октября 2022 года.\r\n<a href='https://sbermegamarket.ru/promo/promocode/'>Подробные условия промокодов</a>",
+      "logo": "/static/images/offers/icon/megaMarket.svg",
+      "primaryButtonText": "Сделать заказ",
+      "primaryButtonLink": "https://sbermegamarket.ru/?utm_source=sberbankaktivno&utm_medium=cpa&utm_campaign=article",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Маркетплейс»",
+      "advertisionLabelLink": "https://sbermegamarket.ru/"
+    },
+    {
+      "id": "«СберСпасибо»",
+      "name": "«СберСпасибо»",
+      "description": "Обменивайте бонусы за покупки по карте на скидки у партнёров",
+      "offer": "Получайте повышенные бонусы в категориях «Супермаркеты», «Аптеки», «Товары для дома» и др.",
+      "descType": "short",
+      "disclaimer": "Предложение действительно для Участников Программы лояльности «СберСпасибо» (далее — Программа), являющихся держателями дебетовых банковских карт Мир Социальная СберБанка (подробнее о карте: <a href='http://www.sberbank.ru/ru/person'>sberbank.ru</a> и/или по тел. 8 (800-55) 5-55-50). Начисление и Списание Бонусов проводится на базе Программы. Организатор Программы — ПАО Сбербанк (Генеральная лицензия Банка России на осуществление банковских операций № 1481 от 11.08.2015). Программа действует с 12.11.2011 и не ограничена сроком действия. С подробной информацией о Правилах проведения Программы, способах регистрации в Программе, условиях Начисления и Списания Бонусов, актуальным перечнем Партнеров Программы, информацией об Акциях Партнеров, ограничениях можно ознакомиться на сайте: <a href='https://spasibosberbank.ru/'>spasibosberbank.ru</a>. Термины с заглавной буквы употребляются в значении, определенном в Правилах Программы.",
+      "logo": "/static/images/offers/icon/spasibo.svg",
+      "primaryButtonText": "Подробнее",
+      "primaryButtonLink": "https://spasibosberbank.ru/?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберУслуги",
+      "name": "СберУслуги",
+      "description": "Сервис, где можно найти исполнителей для разных задач (ремонт, уборка, репетиторства и т. д.) или самому получать заказы и зарабатывать",
+      "offer": "Сервис, где можно найти исполнителей для разных задач (ремонт, уборка, репетиторства и т. д.) или самому получать заказы и зарабатывать",
+      "descType": "short",
+      "disclaimer": "Подробные <a href='https://sberuslugi.ru/agreement'>условия использования сервиса «СберУслуги»</a>",
+      "logo": "/static/images/offers/icon/uslugi.svg",
+      "primaryButtonText": "Скачать приложение",
+      "primaryButtonLink": "https://sberuslugi.onelink.me/MG2G/859cc979",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Сбер Услуги»",
+      "advertisionLabelLink": "https://sberuslugi.ru/"
+    },
+    {
+      "id": "Работа.ру",
+      "name": "Работа.ру",
+      "description": "Ищете сезонную работу с неполной занятостью? Нужна работа рядом с домом? Найдите подходящую вакансию среди 250 000 актуальных предложений",
+      "offer": "Ищете сезонную работу с неполной занятостью? Нужна работа рядом с домом? Найдите подходящую вакансию среди 250 000 актуальных предложений",
+      "descType": "short",
+      "disclaimer": "ПАО «Сбербанк» не гарантирует трудоустройства. Сведения о вакансиях предоставлены Обществом с ограниченной ответственностью «РДВ-софт» (ИНН 7709969870,ОГРН 5147746474134). Подробная информация — <a href='https://www.rabota.ru/'>rabota.ru</a>",
+      "logo": "/static/images/offers/icon/rabota.svg",
+      "primaryButtonText": "Найти работу",
+      "primaryButtonLink": "https://www.rabota.ru/vacancy/?query=Работа%20для%20пенсионеров&sort=relevance&utm_source=sberbank&utm_medium=ecosystem&utm_campaign=active_age&utm_content=vacancies",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «РДВ-софт»",
+      "advertisionLabelLink": "https://www.rabota.ru/"
+    },
+    {
+      "id": "ОККО",
+      "name": "ОККО",
+      "description": "Онлайн-кинотеатр с коллекцией более 70 тысяч фильмов и сериалов в хорошем качестве",
+      "offer": "Онлайн-кинотеатр с коллекцией более 90 000 фильмов в хорошем качестве без рекламы. Смотрите месяц за 1 ₽, затем 12 месяцев по 199 ₽ / месяц.\r\nКаждый следующий месяц по 399 ₽",
+      "descType": "short",
+      "disclaimer": "Онлайн-кинотеатр <a href='https://okko.tv/'>Okko</a> — это более 90 000 фильмов, сериалов и мультфильмов без рекламы. Okko доступен на большинстве телевизоров с функцией Smart TV (Samsung, Sony, LG, Philips, Panasonic и другие популярные модели), на игровых консолях (PlayStation 3, 4 и 5 и Series X|S) и на мобильных устройствах (Android и iOS). Загружайте фильмы и сериалы на мобильные устройства и смотрите в любой точке мира даже без интернета.    <a href='https://terms.okko.tv/basic_optimum_30_new_2021_12.pdf/'>Правила акции</a>",
+      "logo": "/static/images/offers/icon/okko.svg",
+      "primaryButtonText": "Попробовать за 1 ₽",
+      "primaryButtonLink": "https://okko.tv/subscription/67888",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Окко»",
+      "advertisionLabelLink": "https://okko.tv/"
+    },
+    {
+      "id": "Звук",
+      "name": "Звук",
+      "description": "Слушайте музыку без рекламы, скачивайте любимые треки и плейлисты на сайте или в мобильном приложении",
+      "offer": "Слушайте музыку без рекламы, скачивайте любимые треки и плейлисты на сайте или в мобильном приложении",
+      "descType": "short",
+      "disclaimer": "ООО «Звук». Подробные условия «<a href='https://sber-zvuk.com/new-trial'>Пробная подписка Звук</a>»",
+      "logo": "/static/images/offers/icon/sberzvuk.svg",
+      "primaryButtonText": "Слушать бесплатно",
+      "primaryButtonLink": "https://sber-zvuk.com?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Звук»",
+      "advertisionLabelLink": "https://zvuk.com/"
+    },
+    {
+      "id": "СберМобайл",
+      "name": "СберМобайл",
+      "description": "SIM-карта без скрытых платежей и на неё можно перейти со своим номером.",
+      "offer": "SIM-карта без скрытых платежей и на неё можно перейти со своим номером. <b>Скидка 25%</b> на тариф «Стартовый» на 6 месяцев по промокоду <b>ZABOTA25</b>",
+      "descType": "short",
+      "disclaimer": "Скидка 25% на 6 месяцев на тариф «Стартовый». Скидка на абонентскую плату по тарифу предоставляется в рамках акции «<a href='https://sbermobile.ru/about/actions/skidka-po-promo-kodu-dlya-novyh-abonentov-sbermobile.html'>Скидка по промо-коду для новых абонентов</a>».",
+      "logo": "/static/images/offers/icon/sbermobile.svg",
+      "primaryButtonText": "Заказать со скидкой",
+      "primaryButtonLink": "https://sbermobile.ru/tariffs/?promocode=ZABOTA25&utm_source=sberbankaktivno&utm_medium=banner&utm_campaign=ZABOTA25",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «Сбербанк Телеком»",
+      "advertisionLabelLink": "https://sbermobile.ru/"
+    },
+    {
+      "id": "СберПраво",
+      "name": "СберПраво",
+      "description": "Юридические онлайн-консультации",
+      "offer": "Юридические онлайн-консультации со <b>скидкой 20%</b> по промокоду <b>AKTIVNO</b> для пенсионеров на все услуги с фиксированной ценой",
+      "descType": "short",
+      "disclaimer": "ООО «СБЕР ЛИГАЛ». ОГРН 1187746905004, ИНН 9705124940, Адрес: 121170, г. Москва, ул. Поклонная, д. 3, офис 209, этаж 2. <a href='https://sberpravo.ru/'>Подробнее</a>.",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Получить услугу",
+      "primaryButtonLink": "https://sberpravo.ru/",
+      "advertisionLabelText": "Реклама. Рекламодатель ООО «СБЕР ЛИГАЛ»",
+      "advertisionLabelLink": "https://sberpravo.ru/"
+    },
+    {
+      "id": "СберПрайм",
+      "name": "СберПрайм",
+      "description": "Фильмы, музыка, мобильная связь, доставка продуктов и другие преимущества сервисов Сбера.",
+      "offer": "Фильмы, музыка, мобильная связь, доставка продуктов и другие преимущества сервисов Сбера. <b>Первые 30 дней за 0 ₽</b>, далее 199 ₽ в месяц, либо 1 990 ₽ за год.",
+      "descType": "short",
+      "disclaimer": "Акционерное общество «Центр программ лояльности» (АО «ЦПЛ») ОГРН 1117746689840, ИНН 7702770003 КПП 772501001, место нахождения: 121170, Москва, ул. Поклонная, 3, этаж 3, пом. 120. Подробнее <a href='https://sberprime.sber.ru/'>https://sberprime.sber.ru/</a>.  <a href='https://sberprime.sber.ru/static/offers/offer.pdf'>Правила акции</a>",
+      "logo": "/static/images/offers/icon/sberprime.svg",
+      "primaryButtonText": "Оформить подписку",
+      "primaryButtonLink": "https://sberprime.sber.ru/?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберПрайм+",
+      "name": "СберПрайм+",
+      "description": "Ещё больше возможностей — выгодная СберКарта, переводы без комиссии и расширенная коллекция фильмов и сериалов в OKKO.",
+      "offer": "Ещё больше возможностей — выгодная СберКарта, переводы без комиссии и расширенная коллекция фильмов и сериалов в OKKO. Оформите подписку за <b>399 ₽</b> в месяц",
+      "descType": "short",
+      "disclaimer": "Акционерное общество «Центр программ лояльности» (АО «ЦПЛ») ОГРН 1117746689840, ИНН 7702770003 КПП 772501001, место нахождения: 121170, Москва, ул. Поклонная, 3, этаж 3, пом. 120. Подробнее <a href='https://sberprime.sber.ru/plus'>https://sberprime.sber.ru/plus</a> \r\nПодписка «СберПрайм+» — это тарифный план «СберПрайм+» от ПАО СберБанк и подписка СберПрайм от «АО ЦПЛ», предоставляемая на условиях акции.\r\nПод названием «СберКарта Прайм» понимаются условия предоставляемые по банковской дебетовой карте «СберКарта» при наличии подключенной подписки СберПрайм+",
+      "logo": "/static/images/offers/icon/sberprime.svg",
+      "primaryButtonText": "Оформить подписку",
+      "primaryButtonLink": "https://sberprime.sber.ru/plus?utm_source=activeage&utm_medium=ecosystem&utm_campaign=promo"
+    },
+    {
+      "id": "Кредитная СберКарта",
+      "name": "Кредитная СберКарта",
+      "description": "До 120 дней без %. Спецставка 9,8% на покупки в категории «Здоровье» после льготного периода.",
+      "offer": "До 120 дней без %. Спецставка 9,8% на покупки в категории «Здоровье» после льготного периода.",
+      "descType": "short",
+      "disclaimer": "Кредитная СберКарта. Подробную информацию о кредитной карте, условиях кредитования, имеющихся ограничениях и иных условиях Вы сможете узнать на <a href='http://www.sberbank.ru/ru/person/bank_cards/credit_cards/credit_sberkarta'>sberbank.ru</a>. Банк вправе отказать в выдаче кредитной карты.",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Оформить онлайн",
+      "primaryButtonLink": "http://www.sberbank.ru/sms/cc-website/",
+      "secondaryButtonText": "Подробнее",
+      "secondaryButtonLink": "https://sberbankaktivno.ru/finance/credit-sbercard"
+    }
+  ],
+  "MainPage": [
+    {
+      "id": "Кредитная СберКарта",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберКарта «Мир»",
+      "position": "Продукты СберБанка",
+      "illustration": "/static/images/offers/illustrations/sbercard.svg",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберВклад",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "«СберСпасибо»",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Счёт «Активный возраст»",
+      "position": "Продукты СберБанка",
+      "illustration": "Ссылка на static",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберМегаМаркет",
+      "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "ОККО",
+      "position": "Экосистема Сбера",
+      "illustration": "Ссылка на static",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Самокат",
+      "position": "Экосистема Сбера",
+      "illustration": "Ссылка на static",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберМаркет",
+      "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    }
+  ],
+  "Finance": [
+    {
+      "id": "Счёт «Активный возраст»",
+      "illustration": "Ссылка на static"
+    },
+    {
+      "id": "СберКарта «Мир»"
+    },
+    {
+      "id": "Кредитная СберКарта"
+    },
+    {
+      "id": "Потребительский кредит",
+      "illustration": "Ссылка на static"
+    }
+  ],
+  "Pension": [
+    {
+      "id": "СберМегаМаркет"
+    },
+    {
+      "id": "СберМаркет"
+    },
+    {
+      "id": "СберМобайл"
+    },
+    {
+      "id": "СберПраво"
+    },
+    {
+      "id": "СберУслуги"
+    },
+    {
+      "id": "ОККО"
+    }
+  ],
+  "Spasibo": [
+    {
+      "id": "СберМегаМаркет",
+      "position": "Экосистема Сбера",
+      "illustration": "Ссылка на static"
+    },
+    {
+      "id": "СберМобайл",
+      "position": "Экосистема Сбера"
+    },
+    {
+      "id": "СберПраво",
+      "position": "Экосистема Сбера"
+    },
+    {
+      "id": "СберМаркет",
+      "position": "Экосистема Сбера"
+    }
+  ],
+  "FirstPension": [
+    {
+      "id": "? Счёт «Активный возраст»",
+      "illustration": "Ссылка на static",
+      "primaryButton": "On",
+      "secondaryButton": "On"
+    },
+    {
+      "id": "Счёт «Активный возраст»",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберВклад",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Кредитная СберКарта",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Потребительский кредит",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    }
+  ],
+  "PR": [],
+  "Benefits": [
+    {
+      "id": "СберКарта «Мир»",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберВклад",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "«СберСпасибо»",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Счёт «Активный возраст»",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "ОККО",
+      "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберМегаМаркет",
+      "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "СберМаркет",
+      "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Самокат",
+      "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    }
+  ],
+  "Guide": [
+    {
+      "id": "Потребительский кредит"
+    },
+    {
+      "id": "Счёт «Активный возраст»"
+    },
+    {
+      "id": "«СберСпасибо»"
+    },
+    {
+      "id": "СберМаркет"
+    },
+    {
+      "id": "ОККО"
+    },
+    {
+      "id": "Самокат"
+    }
+  ],
+  "Ecosystem": [
+    {
+      "id": "СберМаркет",
+      "direction": "Еда",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "On",
+      "Article": "https://sberbankaktivno.ru/journal/article/2289?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "Самокат",
+      "direction": "Еда",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "On",
+      "Article": "https://sberbankaktivno.ru/journal/article/2264?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберМегаМаркет",
+      "direction": "Покупки",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "On",
+      "Article": "https://sberbankaktivno.ru/journal/article/2384?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберСпасибо",
+      "direction": "Покупки",
+      "descType": "offer",
+      "Promo": "Yes",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "illustration": "/static/images/offers/illustrations/spasibo.svg"
+    },
+    {
+      "id": "СберУслуги",
+      "direction": "Работа",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "Article": "https://sberbankaktivno.ru/journal/article/2278?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "Работа.ру",
+      "direction": "Работа",
+      "descType": "offer",
+      "Promo": "Yes",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "illustration": "/static/images/offers/illustrations/rabota.svg"
+    },
+    {
+      "id": "OKKO",
+      "direction": "Развлечения",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "Article": "https://sberbankaktivno.ru/journal/article/2320?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "Звук",
+      "direction": "Развлечения",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "Article": "https://sberbankaktivno.ru/journal/article/2405?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберПраво",
+      "direction": "Услуги",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "On"
+    },
+    {
+      "id": "СберМобайл",
+      "direction": "Услуги",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "On"
+    },
+    {
+      "id": "СберПрайм",
+      "direction": "СберПрайм",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "Article": "https://sberbankaktivno.ru/journal/article/2342?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберПрайм+",
+      "direction": "СберПрайм",
+      "descType": "offer",
+      "Promo": "No",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "illustration": "/static/images/offers/illustrations/prime.svg"
+    }
+  ]
+}

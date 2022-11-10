@@ -60,8 +60,8 @@
       "logo": "/static/images/offers/icon/sbermarket.svg",
       "primaryButtonText": "Сделать заказ",
       "primaryButtonLink": "https://sbermarket.ru/rules/new",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Инстамарт Сервис»",
-      "advertisionLabelLink": "https://sbermarket.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «Инстамарт Сервис»",
+      "markingLink": "https://sbermarket.ru/"
     },
     {
       "id": "Самокат",
@@ -73,8 +73,8 @@
       "logo": "/static/images/offers/icon/samokat.svg",
       "primaryButtonText": "Сделать заказ",
       "primaryButtonLink": "https://vml8.adj.st/main?adj_t=tjzxb4h&adj_redirect_macos=https%3A%2F%2Fsamokat.ru%2F&adj_redirect_windows=https%3A%2F%2Fsamokat.ru%2F",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Умный ритейл»",
-      "advertisionLabelLink": "https://samokat.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «Умный ритейл»",
+      "markingLink": "https://samokat.ru/"
     },
     {
       "id": "СберМегаМаркет",
@@ -86,8 +86,8 @@
       "logo": "/static/images/offers/icon/megaMarket.svg",
       "primaryButtonText": "Сделать заказ",
       "primaryButtonLink": "https://sbermegamarket.ru/?utm_source=sberbankaktivno&utm_medium=cpa&utm_campaign=article",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Маркетплейс»",
-      "advertisionLabelLink": "https://sbermegamarket.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «Маркетплейс»",
+      "markingLink": "https://sbermegamarket.ru/"
     },
     {
       "id": "«СберСпасибо»",
@@ -110,8 +110,8 @@
       "logo": "/static/images/offers/icon/uslugi.svg",
       "primaryButtonText": "Скачать приложение",
       "primaryButtonLink": "https://sberuslugi.onelink.me/MG2G/859cc979",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Сбер Услуги»",
-      "advertisionLabelLink": "https://sberuslugi.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «Сбер Услуги»",
+      "markingLink": "https://sberuslugi.ru/"
     },
     {
       "id": "Работа.ру",
@@ -123,8 +123,8 @@
       "logo": "/static/images/offers/icon/rabota.svg",
       "primaryButtonText": "Найти работу",
       "primaryButtonLink": "https://www.rabota.ru/vacancy/?query=Работа%20для%20пенсионеров&sort=relevance&utm_source=sberbank&utm_medium=ecosystem&utm_campaign=active_age&utm_content=vacancies",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «РДВ-софт»",
-      "advertisionLabelLink": "https://www.rabota.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «РДВ-софт»",
+      "markingLink": "https://www.rabota.ru/"
     },
     {
       "id": "ОККО",
@@ -136,8 +136,8 @@
       "logo": "/static/images/offers/icon/okko.svg",
       "primaryButtonText": "Попробовать за 1 ₽",
       "primaryButtonLink": "https://okko.tv/subscription/67888",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Окко»",
-      "advertisionLabelLink": "https://okko.tv/"
+      "markingText": "Реклама. Рекламодатель ООО «Окко»",
+      "markingLink": "https://okko.tv/"
     },
     {
       "id": "Звук",
@@ -149,8 +149,8 @@
       "logo": "/static/images/offers/icon/sberzvuk.svg",
       "primaryButtonText": "Слушать бесплатно",
       "primaryButtonLink": "https://sber-zvuk.com?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Звук»",
-      "advertisionLabelLink": "https://zvuk.com/"
+      "markingText": "Реклама. Рекламодатель ООО «Звук»",
+      "markingLink": "https://zvuk.com/"
     },
     {
       "id": "СберМобайл",
@@ -162,8 +162,8 @@
       "logo": "/static/images/offers/icon/sbermobile.svg",
       "primaryButtonText": "Заказать со скидкой",
       "primaryButtonLink": "https://sbermobile.ru/tariffs/?promocode=ZABOTA25&utm_source=sberbankaktivno&utm_medium=banner&utm_campaign=ZABOTA25",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «Сбербанк Телеком»",
-      "advertisionLabelLink": "https://sbermobile.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «Сбербанк Телеком»",
+      "markingLink": "https://sbermobile.ru/"
     },
     {
       "id": "СберПраво",
@@ -175,8 +175,8 @@
       "logo": "/static/images/offers/icon/sber.svg",
       "primaryButtonText": "Получить услугу",
       "primaryButtonLink": "https://sberpravo.ru/",
-      "advertisionLabelText": "Реклама. Рекламодатель ООО «СБЕР ЛИГАЛ»",
-      "advertisionLabelLink": "https://sberpravo.ru/"
+      "markingText": "Реклама. Рекламодатель ООО «СБЕР ЛИГАЛ»",
+      "markingLink": "https://sberpravo.ru/"
     },
     {
       "id": "СберПрайм",

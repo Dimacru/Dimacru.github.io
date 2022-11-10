@@ -250,12 +250,6 @@
       "isDisabled": "yes"
     },
     {
-      "id": "СберМегаМаркет",
-      "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
-    },
-    {
       "id": "ОККО",
       "position": "Экосистема Сбера",
       "illustration": "/static/images/offers/illustrations/okko.svg",
@@ -263,15 +257,21 @@
       "secondaryButton": "Off"
     },
     {
-      "id": "Самокат",
+      "id": "СберМегаМаркет",
       "position": "Экосистема Сбера",
-      "illustration": "/static/images/offers/illustrations/samokat.svg",
       "primaryButton": "On",
       "secondaryButton": "Off"
     },
     {
       "id": "СберМаркет",
       "position": "Экосистема Сбера",
+      "primaryButton": "On",
+      "secondaryButton": "Off"
+    },
+    {
+      "id": "Самокат",
+      "position": "Экосистема Сбера",
+      "illustration": "/static/images/offers/illustrations/samokat.svg",
       "primaryButton": "On",
       "secondaryButton": "Off"
     }

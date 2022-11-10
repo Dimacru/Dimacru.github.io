@@ -216,12 +216,6 @@
   ],
   "MainPage": [
     {
-      "id": "Кредитная СберКарта",
-      "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
-    },
-    {
       "id": "СберКарта «Мир»",
       "position": "Продукты СберБанка",
       "illustration": "/static/images/offers/illustrations/sbercard.svg",
@@ -230,6 +224,7 @@
     },
     {
       "id": "СберВклад",
+      "name": "Вклады",
       "position": "Продукты СберБанка",
       "primaryButton": "On",
       "secondaryButton": "Off"
@@ -246,6 +241,13 @@
       "illustration": "Ссылка на static",
       "primaryButton": "On",
       "secondaryButton": "Off"
+    },
+    {
+      "id": "Кредитная СберКарта",
+      "position": "Продукты СберБанка",
+      "primaryButton": "On",
+      "secondaryButton": "Off",
+      "isDisabled": "yes"
     },
     {
       "id": "СберМегаМаркет",

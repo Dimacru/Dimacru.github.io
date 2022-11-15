@@ -82,7 +82,7 @@
       "description": "Удобный шопинг: миллионы товаров, тысячи проверенных продавцов",
       "offer": "Заказывайте товары из любимого магазина не выходя из дома. Скидка <b>500 ₽</b> на первый заказ от 2 500 ₽ по промокоду <b>sberactive</b>",
       "descType": "short",
-      "disclaimer": "ООО «Маркетплейс». <a href='https://sbermegamarket.ru/docs/loyalty_program_rules/'>Правила программы лояльности</a>.\r\nПромокод распространяется на все товары, за исключением брендов Apple, Dyson, Rieker. Им можно воспользоваться до 31 октября 2022 года.\r\n<a href='https://sbermegamarket.ru/promo/promocode/'>Подробные условия промокодов</a>",
+      "disclaimer": "ООО «Маркетплейс». <a href='https://sbermegamarket.ru/docs/loyalty_program_rules/'>Правила программы лояльности</a>.\\nПромокод распространяется на все товары, за исключением брендов Apple, Dyson, Rieker. Им можно воспользоваться до 30 ноября 2022 года.\\n<a href='https://sbermegamarket.ru/promo/promocode/'>Подробные условия промокодов</a>",
       "logo": "/static/images/offers/icon/megaMarket.svg",
       "primaryButtonText": "Сделать заказ",
       "primaryButtonLink": "https://sbermegamarket.ru/?utm_source=sberbankaktivno&utm_medium=cpa&utm_campaign=article",
@@ -169,12 +169,12 @@
       "id": "СберПраво",
       "title": "СберПраво",
       "description": "Юридические онлайн-консультации",
-      "offer": "Юридические онлайн-консультации со <b>скидкой 20%</b> по промокоду <b>AKTIVNO</b> для пенсионеров на все услуги с фиксированной ценой",
+      "offer": "Юридические онлайн-консультации со <b>скидкой 30%</b> по <a href='https://sberpravo.ru/marketing/pomoshch-pensioneram-lgotnikam/?promocode=30PRAV&utm_source=aktivno&utm_medium=refferal&utm_campaign=penslgotn' rel='follow noopener' target='_blank'>ссылке</a> для пенсионеров на самые востребованные услуги",
       "descType": "short",
       "disclaimer": "ООО «СБЕР ЛИГАЛ». ОГРН 1187746905004, ИНН 9705124940, Адрес: 121170, г. Москва, ул. Поклонная, д. 3, офис 209, этаж 2. <a href='https://sberpravo.ru/'>Подробнее</a>.",
       "logo": "/static/images/offers/icon/sber.svg",
       "primaryButtonText": "Получить услугу",
-      "primaryButtonLink": "https://sberpravo.ru/",
+      "primaryButtonLink": "https://sberpravo.ru/marketing/pomoshch-pensioneram-lgotnikam/?promocode=30PRAV&utm_source=aktivno&utm_medium=refferal&utm_campaign=penslgotn",
       "markingText": "Реклама. Рекламодатель ООО «СБЕР ЛИГАЛ»",
       "markingLink": "https://sberpravo.ru/"
     },
@@ -212,6 +212,20 @@
       "primaryButtonLink": "http://www.sberbank.ru/sms/cc-website/",
       "secondaryButtonText": "Подробнее",
       "secondaryButtonLink": "https://sberbankaktivno.ru/finance/credit-sbercard"
+    },
+    {
+      "id": "СберКнижка",
+      "title": "Книжка в каждый дом",
+      "description": "Укради книгу на работе и принеси в сбер. И получай проценты и «классы» от Грефа в однокласниках",
+      "descType": "short",
+      "disclaimer": "Всё шутка",
+      "logo": "/static/images/offers/icon/sber.svg",
+      "primaryButtonText": "Пойти в библиотеку",
+      "primaryButtonLink": "http://lib.ru",
+      "secondaryButtonText": "Подробнее",
+      "secondaryButtonLink": "https://google.com",
+      "markingText": "не-Рекламо. ООО Юмор",
+      "markingLink": "https://okko.tv/"
     }
   ],
   "MainPage": [
@@ -274,6 +288,13 @@
       "illustration": "/static/images/offers/illustrations/samokat.svg",
       "primaryButton": "On",
       "secondaryButton": "Off"
+    },
+    {
+      "id": "СберКнижка",
+      "position": "Экосистема Сбера",
+      "illustration": "https://www.dvaveka.ru/wa-data/public/shop/products/30/10/11030/images/78521/78521.1000x0.JPG",
+      "primaryButton": "On",
+      "secondaryButton": "On"
     }
   ],
   "Finance": [
@@ -511,7 +532,6 @@
       "directionTitle": "СберПрайм",
       "directionAnchor": "prime",
       "descType": "offer",
-      "promocode": "AKTIVNO",
       "Article": "https://sberbankaktivno.ru/journal/article/2342?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
     },
     {

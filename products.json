@@ -43,7 +43,7 @@
       "description": "С учётом капитализации процентов доходность до 7,2% годовых",
       "offer": "С учётом капитализации процентов доходность до 7,2% годовых",
       "descType": "short",
-      "disclaimer": "Узнать подробнее о «<a href='http://www.sberbank.ru/ru/person/contributions/deposits/sbervklad' target='_blank' rel='nofollow noopener'>СберВкладе</a>»\r\nДоходность — это расчётная величина, учитывающая ежемесячное увеличение суммы вклада на величину причисленных процентов. Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке за последние 3 месяца. 7,2% — максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в <a href='http://www.sberbank.ru/sms/dp-website' target='_blank' rel='nofollow noopener'>СберБанк Онлайн</a>, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку <a href='https://sberprime.sber.ru/plus' target='_blank' rel='nofollow noopener'>СберПрайм+</a>",
+      "disclaimer": "Узнать подробнее о «<a href='http://www.sberbank.ru/ru/person/contributions/deposits/sbervklad' target='_blank' rel='nofollow noopener'>СберВкладе</a>»<br /><br />Доходность — это расчётная величина, учитывающая ежемесячное увеличение суммы вклада на величину причисленных процентов. Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке за последние 3 месяца. 7,2% — максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в <a href='http://www.sberbank.ru/sms/dp-website' target='_blank' rel='nofollow noopener'>СберБанк Онлайн</a>, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку <a href='https://sberprime.sber.ru/plus' target='_blank' rel='nofollow noopener'>СберПрайм+</a>",
       "logo": "/static/images/offers/icon/sber.svg",
       "primaryButtonText": "Открыть вклад",
       "primaryButtonLink": "http://sberbank.ru/sms/vkdlsite",
@@ -82,7 +82,7 @@
       "description": "Удобный шопинг: миллионы товаров, тысячи проверенных продавцов",
       "offer": "Заказывайте товары из любимого магазина не выходя из дома. Скидка <b>500 ₽</b> на первый заказ от 2 500 ₽ по промокоду <b>sberactive</b>",
       "descType": "short",
-      "disclaimer": "ООО «Маркетплейс». <a href='https://sbermegamarket.ru/docs/loyalty_program_rules/'>Правила программы лояльности</a>.\\nПромокод распространяется на все товары, за исключением брендов Apple, Dyson, Rieker. Им можно воспользоваться до 30 ноября 2022 года.\\n<a href='https://sbermegamarket.ru/promo/promocode/'>Подробные условия промокодов</a>",
+      "disclaimer": "ООО «Маркетплейс». <a href='https://sbermegamarket.ru/docs/loyalty_program_rules/'>Правила программы лояльности</a>.<br />Промокод распространяется на все товары, за исключением брендов Apple, Dyson, Rieker. Им можно воспользоваться до 30 ноября 2022 года.<br /><a href='https://sbermegamarket.ru/promo/promocode/'>Подробные условия промокодов</a>",
       "logo": "/static/images/offers/icon/megaMarket.svg",
       "primaryButtonText": "Сделать заказ",
       "primaryButtonLink": "https://sbermegamarket.ru/?utm_source=sberbankaktivno&utm_medium=cpa&utm_campaign=article",
@@ -195,7 +195,7 @@
       "description": "Ещё больше возможностей — выгодная СберКарта, переводы без комиссии и расширенная коллекция фильмов и сериалов в OKKO.",
       "offer": "Ещё больше возможностей — выгодная СберКарта, переводы без комиссии и расширенная коллекция фильмов и сериалов в OKKO. Оформите подписку за <b>399 ₽</b> в месяц",
       "descType": "short",
-      "disclaimer": "Акционерное общество «Центр программ лояльности» (АО «ЦПЛ») ОГРН 1117746689840, ИНН 7702770003 КПП 772501001, место нахождения: 121170, Москва, ул. Поклонная, 3, этаж 3, пом. 120. Подробнее <a href='https://sberprime.sber.ru/plus'>https://sberprime.sber.ru/plus</a> \r\nПодписка «СберПрайм+» — это тарифный план «СберПрайм+» от ПАО СберБанк и подписка СберПрайм от «АО ЦПЛ», предоставляемая на условиях акции.\r\nПод названием «СберКарта Прайм» понимаются условия предоставляемые по банковской дебетовой карте «СберКарта» при наличии подключенной подписки СберПрайм+",
+      "disclaimer": "Акционерное общество «Центр программ лояльности» (АО «ЦПЛ») ОГРН 1117746689840, ИНН 7702770003 КПП 772501001, место нахождения: 121170, Москва, ул. Поклонная, 3, этаж 3, пом. 120. Подробнее <a href='https://sberprime.sber.ru/plus'>https://sberprime.sber.ru/plus</a> <br />Подписка «СберПрайм+» — это тарифный план «СберПрайм+» от ПАО СберБанк и подписка СберПрайм от «АО ЦПЛ», предоставляемая на условиях акции.<br />Под названием «СберКарта Прайм» понимаются условия предоставляемые по банковской дебетовой карте «СберКарта» при наличии подключенной подписки СберПрайм+",
       "logo": "/static/images/offers/icon/sberprime.svg",
       "primaryButtonText": "Оформить подписку",
       "primaryButtonLink": "https://sberprime.sber.ru/plus?utm_source=activeage&utm_medium=ecosystem&utm_campaign=promo"
@@ -212,20 +212,6 @@
       "primaryButtonLink": "http://www.sberbank.ru/sms/cc-website/",
       "secondaryButtonText": "Подробнее",
       "secondaryButtonLink": "https://sberbankaktivno.ru/finance/credit-sbercard"
-    },
-    {
-      "id": "СберКнижка",
-      "title": "Книжка в каждый дом",
-      "description": "Укради книгу на работе и принеси в сбер. И получай проценты и «классы» от Грефа в однокласниках",
-      "descType": "short",
-      "disclaimer": "Всё шутка",
-      "logo": "/static/images/offers/icon/sber.svg",
-      "primaryButtonText": "Пойти в библиотеку",
-      "primaryButtonLink": "http://lib.ru",
-      "secondaryButtonText": "Подробнее",
-      "secondaryButtonLink": "https://google.com",
-      "markingText": "не-Рекламо. ООО Юмор",
-      "markingLink": "https://okko.tv/"
     }
   ],
   "MainPage": [
@@ -288,13 +274,6 @@
       "illustration": "/static/images/offers/illustrations/samokat.svg",
       "primaryButton": "On",
       "secondaryButton": "Off"
-    },
-    {
-      "id": "СберКнижка",
-      "position": "Экосистема Сбера",
-      "illustration": "https://www.dvaveka.ru/wa-data/public/shop/products/30/10/11030/images/78521/78521.1000x0.JPG",
-      "primaryButton": "On",
-      "secondaryButton": "On"
     }
   ],
   "Finance": [

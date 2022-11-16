@@ -43,7 +43,7 @@
       "description": "С учётом капитализации процентов доходность до 7,2% годовых",
       "offer": "С учётом капитализации процентов доходность до 7,2% годовых",
       "descType": "short",
-      "disclaimer": "Узнать подробнее о «<a href='http://www.sberbank.ru/ru/person/contributions/deposits/sbervklad' target='_blank' rel='nofollow noopener'>СберВкладе</a>»<br /><br />Доходность — это расчётная величина, учитывающая ежемесячное увеличение суммы вклада на величину причисленных процентов. Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке за последние 3 месяца. 7,2% — максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в <a href='http://www.sberbank.ru/sms/dp-website' target='_blank' rel='nofollow noopener'>СберБанк Онлайн</a>, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку <a href='https://sberprime.sber.ru/plus' target='_blank' rel='nofollow noopener'>СберПрайм+</a>",
+      "disclaimer": "Узнать подробнее о «<a href='http://www.sberbank.ru/ru/person/contributions/deposits/sbervklad' target='_blank' rel='nofollow noopener'>СберВкладе</a>»<br />Доходность — это расчётная величина, учитывающая ежемесячное увеличение суммы вклада на величину причисленных процентов. Максимальная ставка будет начислена на денежные средства, которых не было на ваших срочных вкладах в СберБанке за последние 3 месяца. 7,2% — максимальная доходность по этому вкладу. Чтобы её получить, нужно открыть вклад в <a href='http://www.sberbank.ru/sms/dp-website' target='_blank' rel='nofollow noopener'>СберБанк Онлайн</a>, вложить от 100 000 рублей сроком до 12 месяцев и оформить годовую подписку <a href='https://sberprime.sber.ru/plus' target='_blank' rel='nofollow noopener'>СберПрайм+</a>",
       "logo": "/static/images/offers/icon/sber.svg",
       "primaryButtonText": "Открыть вклад",
       "primaryButtonLink": "http://sberbank.ru/sms/vkdlsite",
@@ -219,77 +219,74 @@
       "id": "СберКарта «Мир»",
       "position": "Продукты СберБанка",
       "illustration": "/static/images/offers/illustrations/sbercard.svg",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "выкл"
     },
     {
       "id": "СберВклад",
       "title": "Вклады",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "выкл."
     },
     {
       "id": "«СберСпасибо»",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "ок"
     },
     {
       "id": "Счёт «Активный возраст»",
       "position": "Продукты СберБанка",
       "illustration": "/static/images/offers/illustrations/old-man-with-card.svg",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "yes"
     },
     {
       "id": "Кредитная СберКарта",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off",
+      "isSecondaryButtonHidden": "disabled",
       "isDisabled": "yes"
     },
     {
       "id": "ОККО",
       "position": "Экосистема Сбера",
       "illustration": "/static/images/offers/illustrations/okko.svg",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "hidden"
     },
     {
       "id": "СберМегаМаркет",
       "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "Off"
     },
     {
       "id": "СберМаркет",
       "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "delete"
     },
     {
       "id": "Самокат",
       "position": "Экосистема Сбера",
       "illustration": "/static/images/offers/illustrations/samokat.svg",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "remove"
     }
   ],
   "Finance": [
     {
       "id": "Счёт «Активный возраст»",
-      "illustration": "Ссылка на static"
+      "position": "top",
+      "illustration": "/static/images/offers/illustrations/man-with-card.svg",
+      "circleColor": "rgba(180, 160, 255, 0.25)"
     },
     {
-      "id": "СберКарта «Мир»"
+      "id": "СберКарта «Мир»",
+      "position": "center"
     },
     {
-      "id": "Кредитная СберКарта"
+      "id": "Кредитная СберКарта",
+      "position": "center"
     },
     {
       "id": "Потребительский кредит",
-      "illustration": "Ссылка на static"
+      "position": "bottom",
+      "illustration": "/static/images/offers/illustrations/woman-with-coin.svg",
+      "circleColor": "rgba(33, 201, 33, .2)"
     }
   ],
   "Pension": [
@@ -334,29 +331,23 @@
   "FirstPension": [
     {
       "id": "? Счёт «Активный возраст»",
-      "illustration": "Ссылка на static",
-      "primaryButton": "On",
-      "secondaryButton": "On"
+      "illustration": "Ссылка на static"
     },
     {
       "id": "Счёт «Активный возраст»",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "yes"
     },
     {
       "id": "СберВклад",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "ok"
     },
     {
       "id": "Кредитная СберКарта",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "да"
     },
     {
       "id": "Потребительский кредит",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "выкл"
     }
   ],
   "PR": [],
@@ -364,50 +355,42 @@
     {
       "id": "СберКарта «Мир»",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "СберВклад",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "«СберСпасибо»",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "Счёт «Активный возраст»",
       "position": "Продукты СберБанка",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "ОККО",
       "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "СберМегаМаркет",
       "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "СберМаркет",
       "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     },
     {
       "id": "Самокат",
       "position": "Экосистема Сбера",
-      "primaryButton": "On",
-      "secondaryButton": "Off"
+      "isSecondaryButtonHidden": "true"
     }
   ],
   "Guide": [

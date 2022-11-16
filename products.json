@@ -9,7 +9,8 @@
       "disclaimer": "СберКарта. С подробными условиями и тарифами вы можете ознакомиться на сайте <a href='http://www.sberbank.ru/ru/person/bank_cards/debit/sberkarta'>sberbank.ru</a>",
       "logo": "/static/images/offers/icon/sber.svg",
       "primaryButtonText": "Заказать карту",
-      "primaryButtonLink": "https://www.sberbank.com/ru/persons/bank_cards/debit/order?utm_source=sberbankaktivno&utm_medium=free&utm_campaign=sbercard_pens#order"
+      "primaryButtonLink": "https://www.sberbank.com/ru/persons/bank_cards/debit/order?utm_source=sberbankaktivno&utm_medium=free&utm_campaign=sbercard_pens#order",
+      "secondaryButtonText": "Подробнее"
     },
     {
       "id": "Счёт «Активный возраст»",

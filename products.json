@@ -288,6 +288,10 @@
       "position": "bottom",
       "illustration": "/static/images/offers/illustrations/woman-with-coin.svg",
       "circleColor": "rgba(33, 201, 33, .2)"
+    },
+    {
+      "id": "«СберСпасибо»",
+      "position": "spasibo"
     }
   ],
   "Pension": [

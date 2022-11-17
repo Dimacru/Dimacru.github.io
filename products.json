@@ -349,23 +349,27 @@
   ],
   "FirstPension": [
     {
-      "id": "? Счёт «Активный возраст»",
-      "illustration": "Ссылка на static"
+      "id": "Счёт «Активный возраст»",
+      "position": "top"
     },
     {
       "id": "Счёт «Активный возраст»",
+      "position": "Продукты Сбера",
       "isSecondaryButtonHidden": "yes"
     },
     {
       "id": "СберВклад",
+      "position": "Продукты Сбера",
       "isSecondaryButtonHidden": "ok"
     },
     {
       "id": "Кредитная СберКарта",
+      "position": "Продукты Сбера",
       "isSecondaryButtonHidden": "да"
     },
     {
       "id": "Потребительский кредит",
+      "position": "Продукты Сбера",
       "isSecondaryButtonHidden": "выкл"
     }
   ],

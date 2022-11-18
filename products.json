@@ -246,7 +246,7 @@
       "title": "Проценты на остаток",
       "description": "Не спешите снимать наличные с карты, чтобы не потерять доходность 3,5% на остаток",
       "isSecondaryButtonHidden": "выкл",
-      "icon": "/static/first-pension/icon/percent.svg"
+      "icon": "/static/images/first-pension/icon/percent.svg"
     },
     {
       "id": "Счёт «Активный возраст»",
@@ -254,7 +254,7 @@
       "title": "Чтобы копить быстрее",
       "description": "Переведите деньги со СберКарты на счёт «Активный возраст» с доходностью до 6,8%, снимайте и пополняйте без ограничений",
       "isSecondaryButtonHidden": "выкл",
-      "icon": "/static/first-pension/icon/money-pig.svg"
+      "icon": "/static/images/first-pension/icon/money-pig.svg"
     },
     {
       "id": "«СберСпасибо»",
@@ -262,7 +262,7 @@
       "title": "Бонусы «СберСпасибо»",
       "description": "При оплате наличными вы теряете бонусы «СберСпасибо», которыми можно оплатить до 99% стоимости покупки у партнёров3",
       "isSecondaryButtonHidden": "выкл",
-      "icon": "/static/first-pension/icon/spasibo.svg"
+      "icon": "/static/images/first-pension/icon/spasibo.svg"
     },
     {
       "id": "хз",
@@ -271,7 +271,7 @@
       "description": "Чтобы подтвердить доходы (например, при оформлении кредита) закажите <a href='http://www.sberbank.ru/sms/ppc/' target='_blank' rel='nofollow noopener' data-ga-action='Click to link Сertificate of pension amount' >справку</a>",
       "disclaimer": "-",
       "isSecondaryButtonHidden": "выкл",
-      "icon": "/static/first-pension/icon/certificate.svg"
+      "icon": "/static/images/first-pension/icon/certificate.svg"
     }
   ],
   "MainPage": [

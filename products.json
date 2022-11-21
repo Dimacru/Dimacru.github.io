@@ -215,6 +215,52 @@
       "secondaryButtonLink": "https://sberbankaktivno.ru/finance/credit-sbercard"
     }
   ],
+  "Benefits": [
+    {
+      "id": "СберКарта «Мир»",
+      "position": "Продукты СберБанка",
+      "illustration": "/static/images/offers/illustrations/sbercard.svg",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "СберВклад",
+      "position": "Продукты СберБанка",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "«СберСпасибо»",
+      "position": "Продукты СберБанка",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "Счёт «Активный возраст»",
+      "position": "Продукты СберБанка",
+      "illustration": "/static/images/offers/illustrations/old-man-with-card.svg",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "ОККО",
+      "position": "Экосистема Сбера",
+      "illustration": "/static/images/offers/illustrations/okko.svg",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "СберМегаМаркет",
+      "position": "Экосистема Сбера",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "СберМаркет",
+      "position": "Экосистема Сбера",
+      "isSecondaryButtonHidden": "true"
+    },
+    {
+      "id": "Самокат",
+      "position": "Экосистема Сбера",
+      "illustration": "/static/images/offers/illustrations/samokat.svg",
+      "isSecondaryButtonHidden": "true"
+    }
+  ],
   "FirstPension": [
     {
       "id": "Счёт «Активный возраст»",
@@ -260,7 +306,7 @@
       "id": "«СберСпасибо»",
       "position": "Полезные советы",
       "title": "Бонусы «СберСпасибо»",
-      "description": "При оплате наличными вы теряете бонусы «СберСпасибо», которыми можно оплатить до 99% стоимости покупки у партнёров3",
+      "description": "При оплате наличными вы теряете бонусы «СберСпасибо», которыми можно оплатить до 99% стоимости покупки у партнёров",
       "isSecondaryButtonHidden": "выкл",
       "icon": "/static/images/first-pension/icon/spasibo.svg"
     },
@@ -268,7 +314,7 @@
       "id": "хз",
       "position": "Полезные советы",
       "title": "Справка о размере пенсии",
-      "description": "Чтобы подтвердить доходы (например, при оформлении кредита) закажите <a href='http://www.sberbank.ru/sms/ppc/' target='_blank' rel='nofollow noopener' data-ga-action='Click to link Сertificate of pension amount' >справку</a>",
+      "description": "Чтобы подтвердить доходы (например, при оформлении кредита) закажите <a href='http://www.sberbank.ru/sms/ppc/' target='_blank' rel='nofollow noopener' data-ga-action='Click to link Сertificate of pension amount' >справку</a> в СберБанк Онлайн",
       "disclaimer": "-",
       "isSecondaryButtonHidden": "выкл",
       "icon": "/static/images/first-pension/icon/certificate.svg"
@@ -407,48 +453,6 @@
     }
   ],
   "PR": [],
-  "Benefits": [
-    {
-      "id": "СберКарта «Мир»",
-      "position": "Продукты СберБанка",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "СберВклад",
-      "position": "Продукты СберБанка",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "«СберСпасибо»",
-      "position": "Продукты СберБанка",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "Счёт «Активный возраст»",
-      "position": "Продукты СберБанка",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "ОККО",
-      "position": "Экосистема Сбера",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "СберМегаМаркет",
-      "position": "Экосистема Сбера",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "СберМаркет",
-      "position": "Экосистема Сбера",
-      "isSecondaryButtonHidden": "true"
-    },
-    {
-      "id": "Самокат",
-      "position": "Экосистема Сбера",
-      "isSecondaryButtonHidden": "true"
-    }
-  ],
   "Guide": [
     {
       "id": "Потребительский кредит"
@@ -467,6 +471,11 @@
     },
     {
       "id": "Самокат"
+    }
+  ],
+  "PrePension": [
+    {
+      "id": "СберКарта «Мир»"
     }
   ],
   "Ecosystem": [

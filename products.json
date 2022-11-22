@@ -215,6 +215,148 @@
       "secondaryButtonLink": "https://sberbankaktivno.ru/finance/credit-sbercard"
     }
   ],
+  "Ecosystem": [
+    {
+      "id": "СберМаркет",
+      "directionTitle": "Еда",
+      "directionSlug": "food",
+      "descType": "offer",
+      "promocode": "NEW10",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2289?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "ArticleMarking": "Реклама. Рекламодатель ООО «Инстамарт Сервис»"
+    },
+    {
+      "id": "Самокат",
+      "directionTitle": "Еда",
+      "directionSlug": "food",
+      "descType": "offer",
+      "promocode": "200EMAIL",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2264?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "ArticleMarking": "Реклама. Рекламодатель ООО «Умный ритейл»"
+    },
+    {
+      "id": "СберМегаМаркет",
+      "directionTitle": "Покупки",
+      "directionSlug": "shopping",
+      "descType": "offer",
+      "promocode": "sberactive",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2384?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "ArticleMarking": "Реклама. Рекламодатель ООО «Маркетплейс»"
+    },
+    {
+      "id": "«СберСпасибо»",
+      "title": "СберСпасибо",
+      "directionTitle": "Покупки",
+      "directionSlug": "shopping",
+      "descType": "offer",
+      "illustration": "/static/images/offers/illustrations/spasibo.svg",
+      "style": "green"
+    },
+    {
+      "id": "СберУслуги",
+      "directionTitle": "Работа",
+      "directionSlug": "work",
+      "descType": "offer",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2278?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "ArticleMarking": "Реклама. Рекламодатель ООО «Сбер Услуги»"
+    },
+    {
+      "id": "Работа.ру",
+      "directionTitle": "Работа",
+      "directionSlug": "work",
+      "descType": "offer",
+      "illustration": "/static/images/offers/illustrations/rabota.svg"
+    },
+    {
+      "id": "OKKO",
+      "directionTitle": "Развлечения",
+      "directionSlug": "entertainment",
+      "descType": "offer",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2320?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "ArticleMarking": "Реклама. Рекламодатель ООО «Окко»"
+    },
+    {
+      "id": "Звук",
+      "directionTitle": "Развлечения",
+      "directionSlug": "entertainment",
+      "descType": "offer",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2405?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
+      "ArticleMarking": "Реклама. Рекламодатель ООО «Звук»"
+    },
+    {
+      "id": "СберПраво",
+      "directionTitle": "Услуги",
+      "directionSlug": "services",
+      "descType": "offer",
+      "style": "small"
+    },
+    {
+      "id": "СберМобайл",
+      "directionTitle": "Услуги",
+      "directionSlug": "services",
+      "descType": "offer",
+      "promocode": "ZABOTA25",
+      "style": "small"
+    },
+    {
+      "id": "СберПрайм",
+      "directionTitle": "СберПрайм",
+      "directionSlug": "prime",
+      "descType": "offer",
+      "ArticleUrl": "https://sberbankaktivno.ru/journal/article/2342?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
+    },
+    {
+      "id": "СберПрайм+",
+      "directionTitle": "СберПрайм",
+      "directionSlug": "prime",
+      "descType": "offer",
+      "illustration": "/static/images/offers/illustrations/prime.svg"
+    },
+    {
+      "id": "СберКарта «Мир»",
+      "directionTitle": "Финансы",
+      "directionSlug": "finance",
+      "descType": "offer",
+      "illustration": "/static/images/offers/illustrations/sbercard.svg",
+      "style": "green",
+      "isDisabled": "yes"
+    },
+    {
+      "id": "Счёт «Активный возраст»",
+      "directionTitle": "Финансы",
+      "directionSlug": "finance",
+      "descType": "offer",
+      "style": "small",
+      "isDisabled": "yes"
+    },
+    {
+      "id": "Потребительский кредит",
+      "directionTitle": "Финансы",
+      "directionSlug": "finance",
+      "descType": "offer",
+      "style": "small",
+      "isDisabled": "yes"
+    },
+    {
+      "id": "СберВклад",
+      "title": "Копить со СберВкладом - выгоднее",
+      "directionTitle": "Финансы",
+      "directionSlug": "finance",
+      "descType": "offer",
+      "style": "small",
+      "isDisabled": "yes"
+    },
+    {
+      "id": "Кредитная СберКарта",
+      "directionTitle": "Финансы",
+      "directionSlug": "finance",
+      "descType": "offer",
+      "style": "small",
+      "isDisabled": "yes"
+    },
+    {},
+    {}
+  ],
   "Benefits": [
     {
       "id": "СберКарта «Мир»",
@@ -476,137 +618,6 @@
   "PrePension": [
     {
       "id": "СберКарта «Мир»"
-    }
-  ],
-  "Ecosystem": [
-    {
-      "id": "СберМаркет",
-      "directionTitle": "Еда",
-      "directionAnchor": "food",
-      "descType": "offer",
-      "promocode": "NEW10",
-      "Article": "https://sberbankaktivno.ru/journal/article/2289?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "Самокат",
-      "directionTitle": "Еда",
-      "directionAnchor": "food",
-      "descType": "offer",
-      "promocode": "200EMAIL",
-      "Article": "https://sberbankaktivno.ru/journal/article/2264?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "СберМегаМаркет",
-      "directionTitle": "Покупки",
-      "directionAnchor": "shopping",
-      "descType": "offer",
-      "promocode": "sberactive",
-      "Article": "https://sberbankaktivno.ru/journal/article/2384?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "СберСпасибо",
-      "directionTitle": "Покупки",
-      "directionAnchor": "shopping",
-      "descType": "offer",
-      "illustration": "/static/images/offers/illustrations/spasibo.svg",
-      "style": "green"
-    },
-    {
-      "id": "СберУслуги",
-      "directionTitle": "Работа",
-      "directionAnchor": "work",
-      "descType": "offer",
-      "Article": "https://sberbankaktivno.ru/journal/article/2278?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "Работа.ру",
-      "directionTitle": "Работа",
-      "directionAnchor": "work",
-      "descType": "offer",
-      "illustration": "/static/images/offers/illustrations/rabota.svg"
-    },
-    {
-      "id": "OKKO",
-      "directionTitle": "Развлечения",
-      "directionAnchor": "work",
-      "descType": "offer",
-      "Article": "https://sberbankaktivno.ru/journal/article/2320?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "Звук",
-      "directionTitle": "Развлечения",
-      "directionAnchor": "work",
-      "descType": "offer",
-      "Article": "https://sberbankaktivno.ru/journal/article/2405?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "СберПраво",
-      "directionTitle": "Услуги",
-      "directionAnchor": "services",
-      "descType": "offer",
-      "style": "small"
-    },
-    {
-      "id": "СберМобайл",
-      "directionTitle": "Услуги",
-      "directionAnchor": "services",
-      "descType": "offer",
-      "promocode": "ZABOTA25",
-      "style": "small"
-    },
-    {
-      "id": "СберПрайм",
-      "directionTitle": "СберПрайм",
-      "directionAnchor": "prime",
-      "descType": "offer",
-      "Article": "https://sberbankaktivno.ru/journal/article/2342?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age"
-    },
-    {
-      "id": "СберПрайм+",
-      "directionTitle": "СберПрайм",
-      "directionAnchor": "prime",
-      "descType": "offer",
-      "illustration": "/static/images/offers/illustrations/prime.svg"
-    },
-    {
-      "id": "СберКарта «Мир»",
-      "directionTitle": "Финансы",
-      "directionAnchor": "finance",
-      "descType": "offer",
-      "illustration": "/static/images/offers/illustrations/sbercard.svg",
-      "style": "small",
-      "isDisabled": "yes"
-    },
-    {
-      "id": "Счёт «Активный возраст»",
-      "directionTitle": "Финансы",
-      "directionAnchor": "finance",
-      "descType": "offer",
-      "style": "small",
-      "isDisabled": "yes"
-    },
-    {
-      "id": "Потребительский кредит",
-      "directionTitle": "Финансы",
-      "directionAnchor": "finance",
-      "descType": "offer",
-      "style": "small",
-      "isDisabled": "yes"
-    },
-    {
-      "id": "СберВклад",
-      "directionTitle": "Финансы",
-      "directionAnchor": "finance",
-      "descType": "offer",
-      "style": "small",
-      "isDisabled": "yes"
-    },
-    {
-      "id": "Кредитная СберКарта",
-      "directionTitle": "Финансы",
-      "directionAnchor": "finance",
-      "descType": "offer",
-      "isDisabled": "yes"
     }
   ]
 }

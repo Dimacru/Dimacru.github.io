@@ -223,7 +223,8 @@
       "descType": "offer",
       "promocode": "NEW10",
       "articleUrl": "https://sberbankaktivno.ru/journal/article/2289?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "articleMarking": "Реклама. Рекламодатель ООО «Инстамарт Сервис»"
+      "articleMarkingLink": "Реклама. Рекламодатель ООО «Инстамарт Сервис»",
+      "articleMarking": "https://sbermarket.ru/"
     },
     {
       "id": "Самокат",
@@ -232,7 +233,8 @@
       "descType": "offer",
       "promocode": "200EMAIL",
       "articleUrl": "https://sberbankaktivno.ru/journal/article/2264?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "articleMarking": "Реклама. Рекламодатель ООО «Умный ритейл»"
+      "articleMarkingLink": "Реклама. Рекламодатель ООО «Умный ритейл»",
+      "articleMarking": "https://samokat.ru/"
     },
     {
       "id": "СберМегаМаркет",
@@ -241,7 +243,8 @@
       "descType": "offer",
       "promocode": "sberactive",
       "articleUrl": "https://sberbankaktivno.ru/journal/article/2384?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "articleMarking": "Реклама. Рекламодатель ООО «Маркетплейс»"
+      "articleMarkingLink": "Реклама. Рекламодатель ООО «Маркетплейс»",
+      "articleMarking": "https://sbermegamarket.ru/"
     },
     {
       "id": "«СберСпасибо»",
@@ -258,7 +261,8 @@
       "directionSlug": "work",
       "descType": "offer",
       "articleUrl": "https://sberbankaktivno.ru/journal/article/2278?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "articleMarking": "Реклама. Рекламодатель ООО «Сбер Услуги»"
+      "articleMarkingLink": "Реклама. Рекламодатель ООО «Сбер Услуги»",
+      "articleMarking": "https://sberuslugi.ru/"
     },
     {
       "id": "Работа.ру",
@@ -273,7 +277,8 @@
       "directionSlug": "entertainment",
       "descType": "offer",
       "articleUrl": "https://sberbankaktivno.ru/journal/article/2320?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "articleMarking": "Реклама. Рекламодатель ООО «Окко»"
+      "articleMarkingLink": "Реклама. Рекламодатель ООО «Окко»",
+      "articleMarking": "https://okko.tv/"
     },
     {
       "id": "Звук",
@@ -281,7 +286,8 @@
       "directionSlug": "entertainment",
       "descType": "offer",
       "articleUrl": "https://sberbankaktivno.ru/journal/article/2405?utm_source=active_age&utm_medium=ecosystem&utm_campaign=active_age",
-      "articleMarking": "Реклама. Рекламодатель ООО «Звук»"
+      "articleMarkingLink": "Реклама. Рекламодатель ООО «Звук»",
+      "articleMarking": "https://zvuk.com/"
     },
     {
       "id": "СберПраво",
